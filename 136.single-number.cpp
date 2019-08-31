@@ -3,9 +3,6 @@
  *
  * [136] Single Number
  */
-#include <map>
-#include <vector>
-using namespace std;
 
 class Solution {
 public:
