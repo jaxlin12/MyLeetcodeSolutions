@@ -35,11 +35,9 @@ class Solution:
 #Bottom-up Approach:
     def maxSubArray(self, nums: List[int]) -> int:
         size = len(nums)
-        max_sum = nums[-1]
         last = nums[-1]
         for index in range(size-2, -1, -1):
-            last = max(nums[index], nums[index] + last)
-            max_sum = max(last, max_sum)
-        return max_sum
+            nums[index] = max(nums[index], nums[index] + nums[index + 1])
+        return max(nums)
 # @lc code=end
 
