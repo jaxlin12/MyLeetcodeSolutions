@@ -35,7 +35,6 @@ class Solution:
 #Bottom-up Approach:
     def maxSubArray(self, nums: List[int]) -> int:
         size = len(nums)
-        last = nums[-1]
         for index in range(size-2, -1, -1):
             nums[index] = max(nums[index], nums[index] + nums[index + 1])
         return max(nums)
