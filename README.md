@@ -1,6 +1,6 @@
 # MyLeetcodeSolutions
 # Easy:
-#### count: 43
+#### count: 44
 Solution|Comments
 :-|:-:
 [1.two-sum.py](./1.two-sum.py)|N/A
@@ -46,6 +46,7 @@ Solution|Comments
 [171.excel-sheet-column-number.py](./171.excel-sheet-column-number.py)|N/A
 [172.factorial-trailing-zeroes.py](./172.factorial-trailing-zeroes.py)|N/A
 [189.rotate-array.py](./189.rotate-array.py)|be careful of cycle/reverse all then reverse front and back
+[190.reverse-bits.py](./190.reverse-bits.py)|bit by bit/Mask and Shift
 
 # Medium:
 #### count:
