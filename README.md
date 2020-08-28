@@ -1,6 +1,6 @@
 # MyLeetcodeSolutions
 # Easy:
-#### count: 42
+#### count: 43
 Solution|Comments
 :-|:-:
 [1.two-sum.py](./1.two-sum.py)|N/A
@@ -45,6 +45,7 @@ Solution|Comments
 [169.majority-element.py](./169.majority-element.py)|Boyer-Moore Voting Algorithm
 [171.excel-sheet-column-number.py](./171.excel-sheet-column-number.py)|N/A
 [172.factorial-trailing-zeroes.py](./172.factorial-trailing-zeroes.py)|N/A
+[189.rotate-array.py](./189.rotate-array.py)|be careful of cycle
 
 # Medium:
 #### count:
