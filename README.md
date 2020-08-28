@@ -2,7 +2,7 @@
 # Easy:
 #### count: 39
 Question #|Solution
-:-:|-::
+:-:|:-
 1|[1.two-sum.py](./1.two-sum.py)
 7|[7.reverse-integer.py](./7.reverse-integer.py)
 9|[9.palindrome-number.py](./9.palindrome-number.py)
