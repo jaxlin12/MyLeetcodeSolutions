@@ -1,6 +1,6 @@
 # MyLeetcodeSolutions
 # Easy:
-#### count: 44
+#### count: 46
 Solution|Comments
 :-|:-:
 [1.two-sum.py](./1.two-sum.py)|N/A
@@ -48,6 +48,7 @@ Solution|Comments
 [189.rotate-array.py](./189.rotate-array.py)|be careful of cycle/reverse all then reverse front and back
 [190.reverse-bits.py](./190.reverse-bits.py)|bit by bit/Mask and Shift
 [191.number-of-1-bits.py](./191.number-of-1-bits.py)|N/A
+[198.house-robber.py](./198.house-robber.py)|N/A
 
 # Medium:
 #### count:
