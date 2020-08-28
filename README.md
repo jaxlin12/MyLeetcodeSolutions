@@ -1,6 +1,6 @@
 # MyLeetcodeSolutions
 # Easy:
-#### count: 56
+#### count: 57
 Solution|Comments
 :-|:-:
 [1.two-sum.py](./1.two-sum.py)|N/A
@@ -59,6 +59,7 @@ Solution|Comments
 [226.invert-binary-tree.py](./226.invert-binary-tree.py)|reverse and sub-reverse
 [231.power-of-two.py](./231.power-of-two.py)|N/A
 [234.palindrome-linked-list.py](./234.palindrome-linked-list.py)|N/A
+[235.lowest-common-ancestor-of-a-binary-search-tree.py](./235.lowest-common-ancestor-of-a-binary-search-tree.py)|N/A
 
 # Medium:
 #### count:
