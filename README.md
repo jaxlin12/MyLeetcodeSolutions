@@ -1,6 +1,6 @@
 # MyLeetcodeSolutions
 # Easy:
-#### count: 46
+#### count: 47
 Solution|Comments
 :-|:-:
 [1.two-sum.py](./1.two-sum.py)|N/A
@@ -49,6 +49,7 @@ Solution|Comments
 [190.reverse-bits.py](./190.reverse-bits.py)|bit by bit/Mask and Shift
 [191.number-of-1-bits.py](./191.number-of-1-bits.py)|N/A
 [198.house-robber.py](./198.house-robber.py)|N/A
+[202.happy-number.py](./202.happy-number.py)|N/A
 
 # Medium:
 #### count:
