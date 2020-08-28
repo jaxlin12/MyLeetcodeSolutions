@@ -1,6 +1,6 @@
 # MyLeetcodeSolutions
 # Easy:
-#### count: 41
+#### count: 42
 Solution|Comments
 :-|:-:
 [1.two-sum.py](./1.two-sum.py)|N/A
@@ -44,6 +44,7 @@ Solution|Comments
 [168.excel-sheet-column-title.py](./168.excel-sheet-column-title.py)|modulos with index 1
 [169.majority-element.py](./169.majority-element.py)|Boyer-Moore Voting Algorithm
 [171.excel-sheet-column-number.py](./171.excel-sheet-column-number.py)|N/A
+[172.factorial-trailing-zeroes.py](./172.factorial-trailing-zeroes.py)|N/A
 
 # Medium:
 #### count:
