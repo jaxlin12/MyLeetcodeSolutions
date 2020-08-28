@@ -1,6 +1,6 @@
 # MyLeetcodeSolutions
 # Easy:
-#### count: 40
+#### count: 41
 Solution|Comments
 :-|:-:
 [1.two-sum.py](./1.two-sum.py)|N/A
@@ -43,6 +43,7 @@ Solution|Comments
 [167.two-sum-ii-input-array-is-sorted.py](./167.two-sum-ii-input-array-is-sorted.py)|N/A
 [168.excel-sheet-column-title.py](./168.excel-sheet-column-title.py)|modulos with index 1
 [169.majority-element.py](./169.majority-element.py)|Boyer-Moore Voting Algorithm
+[171.excel-sheet-column-number.py](./171.excel-sheet-column-number.py)|N/A
 
 # Medium:
 #### count:
