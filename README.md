@@ -1,6 +1,6 @@
 # MyLeetcodeSolutions
 # Easy:
-#### count: 39
+#### count: 40
 Solution|Comments
 :-|:-:
 [1.two-sum.py](./1.two-sum.py)|N/A
@@ -42,15 +42,16 @@ Solution|Comments
 [160.intersection-of-two-linked-lists.py ](./160.intersection-of-two-linked-lists.py)|different length
 [167.two-sum-ii-input-array-is-sorted.py](./167.two-sum-ii-input-array-is-sorted.py)|N/A
 [168.excel-sheet-column-title.py](./168.excel-sheet-column-title.py)|modulos with index 1
+[169.majority-element.py](./169.majority-element.py)|Boyer-Moore Voting Algorithm
 
 # Medium:
 #### count:
 Solution|Comments
-:-:|:-:
+:-|:-:
 
 
 # Hard:
 #### count:
 Solution|Comments
-:-:|:-:
+:-|:-:
 
