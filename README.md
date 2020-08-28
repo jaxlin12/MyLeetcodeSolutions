@@ -1,6 +1,6 @@
 # MyLeetcodeSolutions
 # Easy:
-#### count: 53
+#### count: 54
 Solution|Comments
 :-|:-:
 [1.two-sum.py](./1.two-sum.py)|N/A
@@ -56,6 +56,7 @@ Solution|Comments
 [206.reverse-linked-list.py](./206.reverse-linked-list.py)|N/A
 [217.contains-duplicate.py](./217.contains-duplicate.py)|N/A
 [219.contains-duplicate-ii.py](./219.contains-duplicate-ii.py)|n^2 vs. n*k
+[226.invert-binary-tree.py](./226.invert-binary-tree.py)|reverse and sub-reverse
 
 # Medium:
 #### count:
