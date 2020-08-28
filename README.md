@@ -1,6 +1,6 @@
 # MyLeetcodeSolutions
 # Easy:
-#### count: 57
+#### count: 58
 Solution|Comments
 :-|:-:
 [1.two-sum.py](./1.two-sum.py)|N/A
@@ -60,6 +60,7 @@ Solution|Comments
 [231.power-of-two.py](./231.power-of-two.py)|N/A
 [234.palindrome-linked-list.py](./234.palindrome-linked-list.py)|N/A
 [235.lowest-common-ancestor-of-a-binary-search-tree.py](./235.lowest-common-ancestor-of-a-binary-search-tree.py)|N/A
+[237.delete-node-in-a-linked-list.py](./237.delete-node-in-a-linked-list.py)|N/A
 
 # Medium:
 #### count:
