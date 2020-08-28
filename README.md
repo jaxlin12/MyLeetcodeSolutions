@@ -1,6 +1,6 @@
 # MyLeetcodeSolutions
 # Easy:
-#### count: 38
+#### count: 39
 Question #|Solution
 :-:|:-:
 1|[1.two-sum.py](./1.two-sum.py)
@@ -32,15 +32,16 @@ Question #|Solution
 111|[111.minimum-depth-of-binary-tree.py](./111.minimum-depth-of-binary-tree.py)
 112|[112.path-sum.py](./112.path-sum.py)
 118|[118.pascals-triangle.py](./118.pascals-triangle.py)
-119|[119.pascals-triangle-ii.py❗️❗️❗️](./119.pascals-triangle-ii.py)
-121|[121.best-time-to-buy-and-sell-stock.py❗️❗️❗️](./121.best-time-to-buy-and-sell-stock.py)
+119|[119.pascals-triangle-ii.py❗️❗️❗️(definition of pascals triangle)](./119.pascals-triangle-ii.py)
+121|[121.best-time-to-buy-and-sell-stock.py❗️❗️❗️(greedy algorithm)](./121.best-time-to-buy-and-sell-stock.py)
 122|[122.best-time-to-buy-and-sell-stock-ii.py](./122.best-time-to-buy-and-sell-stock-ii.py)
 125|[125.valid-palindrome.py](./125.valid-palindrome.py)
-136|[136.single-number.py❗️❗️❗️](./136.single-number.py)
-141|[141.linked-list-cycle.py❗️❗️❗️](./141.linked-list-cycle.py)
-155|[155.min-stack.py❗️❗️❗️](./155.min-stack.py)
-160|[160.intersection-of-two-linked-lists.py](./160.intersection-of-two-linked-lists.py)
+136|[136.single-number.py❗️❗️❗️(XOR operation)](./136.single-number.py)
+141|[141.linked-list-cycle.py❗️❗️❗️(Slow and fast pointers)](./141.linked-list-cycle.py)
+155|[155.min-stack.py❗️❗️❗️(push current min)](./155.min-stack.py)
+160|[160.intersection-of-two-linked-lists.py ❗️❗️❗️(different length)](./160.intersection-of-two-linked-lists.py)
 167|[167.two-sum-ii-input-array-is-sorted.py](./167.two-sum-ii-input-array-is-sorted.py)
+168|[168.excel-sheet-column-title.py❗️❗️❗️(modulos with index 1)](./168.excel-sheet-column-title.py)
 
 # Medium:
 #### count:
