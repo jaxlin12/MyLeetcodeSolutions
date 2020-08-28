@@ -1,6 +1,6 @@
 # MyLeetcodeSolutions
 # Easy:
-#### count: 51
+#### count: 52
 Solution|Comments
 :-|:-:
 [1.two-sum.py](./1.two-sum.py)|N/A
@@ -54,6 +54,7 @@ Solution|Comments
 [204.count-primes.py](./204.count-primes.py)|[Sieve of Eratosthenes](https://leetcode.com/problems/count-primes/discuss/435363/Python3-Simple-Code-How-to-Make-Your-Code-Faster.)
 [205.isomorphic-strings.py](./205.isomorphic-strings.py)|set and zip
 [206.reverse-linked-list.py](./206.reverse-linked-list.py)|N/A
+[217.contains-duplicate.py](./217.contains-duplicate.py)|N/A
 
 # Medium:
 #### count:
