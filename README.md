@@ -37,7 +37,8 @@ Question #|Solution
 122|[122.best-time-to-buy-and-sell-stock-ii.py](./122.best-time-to-buy-and-sell-stock-ii.py)
 125|[125.valid-palindrome.py](./125.valid-palindrome.py)
 136|[136.single-number.py❗️❗️❗️](./136.single-number.py)
-141|[141.linked-list-cycle.py](./141.linked-list-cycle.py)
+141|[141.linked-list-cycle.py❗️❗️❗️](./141.linked-list-cycle.py)
+155|[155.min-stack.py❗️❗️❗️](./155.min-stack.py)
 
 # Medium:
 #### count:
