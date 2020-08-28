@@ -1,6 +1,6 @@
 # MyLeetcodeSolutions
 # Easy:
-#### count: 35
+#### count: 38
 Question #|Solution
 :-:|:-:
 1|[1.two-sum.py](./1.two-sum.py)
@@ -40,6 +40,7 @@ Question #|Solution
 141|[141.linked-list-cycle.py❗️❗️❗️](./141.linked-list-cycle.py)
 155|[155.min-stack.py❗️❗️❗️](./155.min-stack.py)
 160|[160.intersection-of-two-linked-lists.py](./160.intersection-of-two-linked-lists.py)
+167|[167.two-sum-ii-input-array-is-sorted.py](./167.two-sum-ii-input-array-is-sorted.py)
 
 # Medium:
 #### count:
