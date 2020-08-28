@@ -47,6 +47,7 @@ Solution|Comments
 [172.factorial-trailing-zeroes.py](./172.factorial-trailing-zeroes.py)|N/A
 [189.rotate-array.py](./189.rotate-array.py)|be careful of cycle/reverse all then reverse front and back
 [190.reverse-bits.py](./190.reverse-bits.py)|bit by bit/Mask and Shift
+[191.number-of-1-bits.py](./191.number-of-1-bits.py)|N/A
 
 # Medium:
 #### count:
