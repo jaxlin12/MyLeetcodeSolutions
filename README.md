@@ -1,6 +1,6 @@
 # MyLeetcodeSolutions
 # Easy:
-#### count: 58
+#### count: 59
 Solution|Comments
 :-|:-:
 [1.two-sum.py](./1.two-sum.py)|N/A
@@ -61,6 +61,8 @@ Solution|Comments
 [234.palindrome-linked-list.py](./234.palindrome-linked-list.py)|N/A
 [235.lowest-common-ancestor-of-a-binary-search-tree.py](./235.lowest-common-ancestor-of-a-binary-search-tree.py)|N/A
 [237.delete-node-in-a-linked-list.py](./237.delete-node-in-a-linked-list.py)|N/A
+[242.valid-anagram.py](./242.valid-anagram.py)|time complexity of dictionary and sorting
+[257.binary-tree-paths.py](./257.binary-tree-paths.py)|N/A
 
 # Medium:
 #### count:
