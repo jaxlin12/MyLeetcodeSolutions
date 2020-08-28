@@ -1,6 +1,6 @@
 # MyLeetcodeSolutions
 # Easy:
-#### count: 52
+#### count: 53
 Solution|Comments
 :-|:-:
 [1.two-sum.py](./1.two-sum.py)|N/A
@@ -55,6 +55,7 @@ Solution|Comments
 [205.isomorphic-strings.py](./205.isomorphic-strings.py)|set and zip
 [206.reverse-linked-list.py](./206.reverse-linked-list.py)|N/A
 [217.contains-duplicate.py](./217.contains-duplicate.py)|N/A
+[219.contains-duplicate-ii.py](./219.contains-duplicate-ii.py)|n^2 vs. n*k
 
 # Medium:
 #### count:
