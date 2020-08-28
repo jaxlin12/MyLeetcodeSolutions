@@ -39,6 +39,7 @@ Question #|Solution
 136|[136.single-number.py❗️❗️❗️](./136.single-number.py)
 141|[141.linked-list-cycle.py❗️❗️❗️](./141.linked-list-cycle.py)
 155|[155.min-stack.py❗️❗️❗️](./155.min-stack.py)
+160|[160.intersection-of-two-linked-lists.py](./160.intersection-of-two-linked-lists.py)
 
 # Medium:
 #### count:
