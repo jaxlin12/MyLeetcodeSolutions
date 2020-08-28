@@ -1,6 +1,6 @@
 # MyLeetcodeSolutions
 # Easy:
-#### count: 59
+#### count: 61
 Solution|Comments
 :-|:-:
 [1.two-sum.py](./1.two-sum.py)|N/A
@@ -63,6 +63,7 @@ Solution|Comments
 [237.delete-node-in-a-linked-list.py](./237.delete-node-in-a-linked-list.py)|N/A
 [242.valid-anagram.py](./242.valid-anagram.py)|time complexity of dictionary and sorting
 [257.binary-tree-paths.py](./257.binary-tree-paths.py)|N/A
+[258.add-digits.py](./258.add-digits.py)|digital root based on the divisibility of 9
 
 # Medium:
 #### count:
