@@ -1,6 +1,6 @@
 # MyLeetcodeSolutions
 # Easy:
-#### count: 69
+#### count: 70
 Solution|Comments
 :-|:-:
 [1.two-sum.py](./1.two-sum.py)|N/A
@@ -73,6 +73,8 @@ Solution|Comments
 [299.bulls-and-cows.py](./299.bulls-and-cows.py)|Cows - Bulls
 [303.range-sum-query-immutable.py](./303.range-sum-query-immutable.py)|Cache sum
 [326.power-of-three.py](./326.power-of-three.py)|Integer Limitation for prime number
+[342.power-of-four.py](./342.power-of-four.py)|Bit Operation
+
 
 # Medium:
 #### count:
