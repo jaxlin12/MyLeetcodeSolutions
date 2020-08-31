@@ -68,6 +68,8 @@ Solution|Comments
 [268.missing-number.py](./268.missing-number.py)|XOR itself is its own inverse
 [278.first-bad-version.py](./278.first-bad-version.py)|N/A
 [283.move-zeroes.py](./283.move-zeroes.py)|Move all to front and fill with zeros at the end
+[290.word-pattern.py](./290.word-pattern.py)|dictionary and set
+
 
 # Medium:
 #### count:
