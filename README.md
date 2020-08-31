@@ -1,6 +1,6 @@
 # MyLeetcodeSolutions
 # Easy:
-#### count: 67
+#### count: 68
 Solution|Comments
 :-|:-:
 [1.two-sum.py](./1.two-sum.py)|N/A
@@ -71,6 +71,7 @@ Solution|Comments
 [290.word-pattern.py](./290.word-pattern.py)|dictionary and set
 [292.nim-game.py](./292.nim-game.py)|N/A
 [299.bulls-and-cows.py](./299.bulls-and-cows.py)|Cows - Bulls
+[303.range-sum-query-immutable.py](./303.range-sum-query-immutable.py)|Cache sum
 
 # Medium:
 #### count:
