@@ -1,6 +1,6 @@
 # MyLeetcodeSolutions
 # Easy:
-#### count: 64
+#### count: 65
 Solution|Comments
 :-|:-:
 [1.two-sum.py](./1.two-sum.py)|N/A
@@ -67,6 +67,7 @@ Solution|Comments
 [263.ugly-number.py](./263.ugly-number.py)|get all prime factors vs. testing only 2, 3, 5
 [268.missing-number.py](./268.missing-number.py)|XOR itself is its own inverse
 [278.first-bad-version.py](./278.first-bad-version.py)|N/A
+[283.move-zeroes.py](./283.move-zeroes.py)|Move all to front and fill with zeros at the end
 
 # Medium:
 #### count:
