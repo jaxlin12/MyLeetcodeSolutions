@@ -1,6 +1,6 @@
 # MyLeetcodeSolutions
 # Easy:
-#### count: 71
+#### count: 72
 Solution|Comments
 :-|:-:
 [1.two-sum.py](./1.two-sum.py)|N/A
@@ -75,6 +75,7 @@ Solution|Comments
 [326.power-of-three.py](./326.power-of-three.py)|Integer Limitation for prime number
 [342.power-of-four.py](./342.power-of-four.py)|Bit Operation
 [344.reverse-string.py](./344.reverse-string.py)|N/A
+[345.reverse-vowels-of-a-string.py](./345.reverse-vowels-of-a-string.py)|Four cases in one if-statement
 
 
 # Medium:
