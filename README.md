@@ -1,6 +1,6 @@
 # MyLeetcodeSolutions
 # Easy:
-#### count: 65
+#### count: 66
 Solution|Comments
 :-|:-:
 [1.two-sum.py](./1.two-sum.py)|N/A
@@ -69,7 +69,7 @@ Solution|Comments
 [278.first-bad-version.py](./278.first-bad-version.py)|N/A
 [283.move-zeroes.py](./283.move-zeroes.py)|Move all to front and fill with zeros at the end
 [290.word-pattern.py](./290.word-pattern.py)|dictionary and set
-
+[292.nim-game.py](./292.nim-game.py)|N/A
 
 # Medium:
 #### count:
