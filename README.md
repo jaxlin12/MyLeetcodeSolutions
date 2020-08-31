@@ -1,6 +1,6 @@
 # MyLeetcodeSolutions
 # Easy:
-#### count: 68
+#### count: 69
 Solution|Comments
 :-|:-:
 [1.two-sum.py](./1.two-sum.py)|N/A
@@ -72,6 +72,7 @@ Solution|Comments
 [292.nim-game.py](./292.nim-game.py)|N/A
 [299.bulls-and-cows.py](./299.bulls-and-cows.py)|Cows - Bulls
 [303.range-sum-query-immutable.py](./303.range-sum-query-immutable.py)|Cache sum
+[326.power-of-three.py](./326.power-of-three.py)|Integer Limitation for prime number
 
 # Medium:
 #### count:
