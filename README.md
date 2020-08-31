@@ -1,6 +1,6 @@
 # MyLeetcodeSolutions
 # Easy:
-#### count: 61
+#### count: 62
 Solution|Comments
 :-|:-:
 [1.two-sum.py](./1.two-sum.py)|N/A
@@ -64,6 +64,7 @@ Solution|Comments
 [242.valid-anagram.py](./242.valid-anagram.py)|time complexity of dictionary and sorting
 [257.binary-tree-paths.py](./257.binary-tree-paths.py)|N/A
 [258.add-digits.py](./258.add-digits.py)|digital root based on the divisibility of 9
+[263.ugly-number.py](./263.ugly-number.py)|get all prime factors vs. testing only 2, 3, 5
 
 # Medium:
 #### count:
