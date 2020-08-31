@@ -1,6 +1,6 @@
 # MyLeetcodeSolutions
 # Easy:
-#### count: 63
+#### count: 64
 Solution|Comments
 :-|:-:
 [1.two-sum.py](./1.two-sum.py)|N/A
@@ -66,6 +66,7 @@ Solution|Comments
 [258.add-digits.py](./258.add-digits.py)|digital root based on the divisibility of 9
 [263.ugly-number.py](./263.ugly-number.py)|get all prime factors vs. testing only 2, 3, 5
 [268.missing-number.py](./268.missing-number.py)|XOR itself is its own inverse
+[278.first-bad-version.py](./278.first-bad-version.py)|N/A
 
 # Medium:
 #### count:
