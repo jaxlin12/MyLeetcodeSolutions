@@ -1,6 +1,6 @@
 # MyLeetcodeSolutions
 # Easy:
-#### count: 83
+#### count: 85
 Solution|Comments
 :-|:-:
 [1.two-sum.py](./1.two-sum.py)|N/A
@@ -86,6 +86,8 @@ Solution|Comments
 [389.find-the-difference.py](./389.find-the-difference.py)|Use XOR to find the difference
 [392.is-subsequence.py](./392.is-subsequence.py)|Binary search for the follow-up question
 [401.binary-watch.py](./401.binary-watch.py)|itertools.combinations can only iterate once
+[404.sum-of-left-leaves.py](./404.sum-of-left-leaves.py)|N/A
+[405.convert-a-number-to-hexadecimal.py](./405.convert-a-number-to-hexadecimal.py)|Two's complement in Python & 0xffffffff -1 => 2^32-1
 
 # Medium:
 #### count:
