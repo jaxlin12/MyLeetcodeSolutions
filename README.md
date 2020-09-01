@@ -1,6 +1,6 @@
 # MyLeetcodeSolutions
 # Easy:
-#### count: 76
+#### count: 77
 Solution|Comments
 :-|:-:
 [1.two-sum.py](./1.two-sum.py)|N/A
@@ -79,6 +79,7 @@ Solution|Comments
 [349.intersection-of-two-arrays.py](./349.intersection-of-two-arrays.py)|Set in operation takes O(1)
 [350.intersection-of-two-arrays-ii.py](./350.intersection-of-two-arrays-ii.py)|Hash map, unorder map takes O(1), sorted + two pointers
 [367.valid-perfect-square.py](./367.valid-perfect-square.py)|lo<hi and lo != mid
+[371.sum-of-two-integers.py](./371.sum-of-two-integers.py)|Python long integer cause infinite loop
 
 
 # Medium:
