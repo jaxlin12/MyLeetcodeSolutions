@@ -1,6 +1,6 @@
 # MyLeetcodeSolutions
 # Easy:
-#### count: 78
+#### count: 79
 Solution|Comments
 :-|:-:
 [1.two-sum.py](./1.two-sum.py)|N/A
@@ -81,6 +81,7 @@ Solution|Comments
 [367.valid-perfect-square.py](./367.valid-perfect-square.py)|lo<hi and lo != mid
 [371.sum-of-two-integers.py](./371.sum-of-two-integers.py)|Python long integer cause infinite loop
 [374.guess-number-higher-or-lower.py](./374.guess-number-higher-or-lower.py)|low+1 and high-1 in binary search
+[383.ransom-note.py](./383.ransom-note.py)|N/A
 
 # Medium:
 #### count:
