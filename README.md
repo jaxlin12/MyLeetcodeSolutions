@@ -1,6 +1,6 @@
 # MyLeetcodeSolutions
 # Easy:
-#### count: 73
+#### count: 74
 Solution|Comments
 :-|:-:
 [1.two-sum.py](./1.two-sum.py)|N/A
@@ -77,6 +77,7 @@ Solution|Comments
 [344.reverse-string.py](./344.reverse-string.py)|N/A
 [345.reverse-vowels-of-a-string.py](./345.reverse-vowels-of-a-string.py)|Four cases in one if-statement
 [349.intersection-of-two-arrays.py](./349.intersection-of-two-arrays.py)|Set in operation takes O(1)
+[350.intersection-of-two-arrays-ii.py](./350.intersection-of-two-arrays-ii.py)|Hash map, unorder map takes O(1), sorted + two pointers
 
 
 # Medium:
