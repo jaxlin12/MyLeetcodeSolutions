@@ -1,6 +1,6 @@
 # MyLeetcodeSolutions
 # Easy:
-#### count: 80
+#### count: 81
 Solution|Comments
 :-|:-:
 [1.two-sum.py](./1.two-sum.py)|N/A
@@ -83,6 +83,7 @@ Solution|Comments
 [374.guess-number-higher-or-lower.py](./374.guess-number-higher-or-lower.py)|low+1 and high-1 in binary search
 [383.ransom-note.py](./383.ransom-note.py)|N/A
 [387.first-unique-character-in-a-string.py](./387.first-unique-character-in-a-string.py)|collections.Counter
+[389.find-the-difference.py](./389.find-the-difference.py)|Use XOR to find the difference
 
 # Medium:
 #### count:
