@@ -1,6 +1,6 @@
 # MyLeetcodeSolutions
 # Easy:
-#### count: 82
+#### count: 83
 Solution|Comments
 :-|:-:
 [1.two-sum.py](./1.two-sum.py)|N/A
@@ -85,6 +85,7 @@ Solution|Comments
 [387.first-unique-character-in-a-string.py](./387.first-unique-character-in-a-string.py)|collections.Counter
 [389.find-the-difference.py](./389.find-the-difference.py)|Use XOR to find the difference
 [392.is-subsequence.py](./392.is-subsequence.py)|Binary search for the follow-up question
+[401.binary-watch.py](./401.binary-watch.py)|itertools.combinations can only iterate once
 
 # Medium:
 #### count:
