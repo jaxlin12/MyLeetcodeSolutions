@@ -1,6 +1,6 @@
 # MyLeetcodeSolutions
 # Easy:
-#### count: 93
+#### count: 94
 Solution|Comments
 :-|:-:
 [1.two-sum.py](./1.two-sum.py)|N/A
@@ -96,6 +96,7 @@ Solution|Comments
 [437.path-sum-iii.py](./437.path-sum-iii.py)|🐮🍺 OldSum = CurSum - target
 [441.arranging-coins.py](./441.arranging-coins.py)|n(n+1)/2 square root takes (logN)
 [443.string-compression.py](./443.string-compression.py)|loop while str changes
+[447.number-of-boomerangs.py](./447.number-of-boomerangs.py)|count combination under constrains C(2,n)*2 = n * (n-1)
 
 # Medium:
 #### count:
