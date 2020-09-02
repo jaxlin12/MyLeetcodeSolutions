@@ -105,9 +105,11 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
 # Medium:
-#### count:
+#### count: 2
 Solution|Comments
 :-|:-:
+[2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
+[3.longest-substring-without-repeating-characters.py](./code/3.longest-substring-without-repeating-characters.py)|Sliding Window
 
 
 # Hard:
