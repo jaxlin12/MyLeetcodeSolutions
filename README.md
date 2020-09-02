@@ -1,6 +1,6 @@
 # MyLeetcodeSolutions
 # Easy:
-#### count: 89
+#### count: 91
 Solution|Comments
 :-|:-:
 [1.two-sum.py](./1.two-sum.py)|N/A
@@ -92,6 +92,8 @@ Solution|Comments
 [412.fizz-buzz.py](./412.fizz-buzz.py)|N/A
 [414.third-maximum-number.py](./414.third-maximum-number.py)|Quickselect
 [415.add-strings.py](./415.add-strings.py)|Reversed order
+[434.number-of-segments-in-a-string.py](./434.number-of-segments-in-a-string.py)|N/A
+[437.path-sum-iii.py](./437.path-sum-iii.py)|🐮🍺 OldSum = CurSum - target
 
 # Medium:
 #### count:
