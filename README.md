@@ -1,6 +1,6 @@
 # MyLeetcodeSolutions
 # Easy:
-#### count: 94
+#### count: 95
 Solution|Comments
 :-|:-:
 [1.two-sum.py](./1.two-sum.py)|N/A
@@ -97,6 +97,7 @@ Solution|Comments
 [441.arranging-coins.py](./441.arranging-coins.py)|n(n+1)/2 square root takes (logN)
 [443.string-compression.py](./443.string-compression.py)|loop while str changes
 [447.number-of-boomerangs.py](./447.number-of-boomerangs.py)|count combination under constrains C(2,n)*2 = n * (n-1)
+[448.find-all-numbers-disappeared-in-an-array.py](./448.find-all-numbers-disappeared-in-an-array.py)|Use negative as indicator
 
 # Medium:
 #### count:
