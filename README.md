@@ -94,7 +94,7 @@ Solution|Comments
 [415.add-strings.py](./415.add-strings.py)|Reversed order
 [434.number-of-segments-in-a-string.py](./434.number-of-segments-in-a-string.py)|N/A
 [437.path-sum-iii.py](./437.path-sum-iii.py)|🐮🍺 OldSum = CurSum - target
-[441.arranging-coins.py](./441.arranging-coins.py)|n(n+1)/2
+[441.arranging-coins.py](./441.arranging-coins.py)|n(n+1)/2 square root takes (logN)
 
 # Medium:
 #### count:
