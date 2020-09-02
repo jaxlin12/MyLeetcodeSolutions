@@ -1,6 +1,6 @@
 # MyLeetcodeSolutions
 # Easy:
-#### count: 88
+#### count: 89
 Solution|Comments
 :-|:-:
 [1.two-sum.py](./1.two-sum.py)|N/A
@@ -91,6 +91,7 @@ Solution|Comments
 [409.longest-palindrome.py](./409.longest-palindrome.py)|N/A
 [412.fizz-buzz.py](./412.fizz-buzz.py)|N/A
 [414.third-maximum-number.py](./414.third-maximum-number.py)|Quickselect
+[415.add-strings.py](./415.add-strings.py)|Reversed order
 
 # Medium:
 #### count:
