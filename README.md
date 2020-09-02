@@ -1,6 +1,6 @@
 # MyLeetcodeSolutions
 # Easy:
-#### count: 95
+#### count: 98
 Solution|Comments
 :-|:-:
 [1.two-sum.py](./1.two-sum.py)|N/A
@@ -98,6 +98,9 @@ Solution|Comments
 [443.string-compression.py](./443.string-compression.py)|loop while str changes
 [447.number-of-boomerangs.py](./447.number-of-boomerangs.py)|count combination under constrains C(2,n)*2 = n * (n-1)
 [448.find-all-numbers-disappeared-in-an-array.py](./448.find-all-numbers-disappeared-in-an-array.py)|Use negative as indicator
+[453.minimum-moves-to-equal-array-elements.py](./453.minimum-moves-to-equal-array-elements.py)|sum - Min*n = m
+[455.assign-cookies.py](./455.assign-cookies.py)|N/A
+[459.repeated-substring-pattern.py](./459.repeated-substring-pattern.py)|🐮🍺KMP algorithm, python sublinear string matching operation
 
 # Medium:
 #### count:
