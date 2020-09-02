@@ -1,6 +1,6 @@
 # MyLeetcodeSolutions
 # Easy:
-#### count: 86
+#### count: 88
 Solution|Comments
 :-|:-:
 [1.two-sum.py](./1.two-sum.py)|N/A
@@ -89,6 +89,8 @@ Solution|Comments
 [404.sum-of-left-leaves.py](./404.sum-of-left-leaves.py)|N/A
 [405.convert-a-number-to-hexadecimal.py](./405.convert-a-number-to-hexadecimal.py)|Two's complement in Python & 0xffffffff -1 => 2^32-1
 [409.longest-palindrome.py](./409.longest-palindrome.py)|N/A
+[412.fizz-buzz.py](./412.fizz-buzz.py)|N/A
+[414.third-maximum-number.py](./414.third-maximum-number.py)|Quickselect
 
 # Medium:
 #### count:
