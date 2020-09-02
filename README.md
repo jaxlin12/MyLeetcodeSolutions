@@ -105,12 +105,13 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
 # Medium:
-#### count: 3
+#### count: 4
 Solution|Comments
 :-|:-:
 [2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
 [3.longest-substring-without-repeating-characters.py](./code/3.longest-substring-without-repeating-characters.py)|Sliding Window
 [5.longest-palindromic-substring.py](./code/5.longest-palindromic-substring.py)|🐮🍺Manacher's algorithm O(n), O(n); DP O(n^2), O(n^2); Expand around center O(n^2), O(1)
+[6.zig-zag-conversion.py](./code/6.zig-zag-conversion.py)|Cycle len
 
 # Hard:
 #### count:
