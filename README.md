@@ -105,7 +105,7 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
 # Medium:
-#### count: 10
+#### count: 13
 Solution|Comments
 :-|:-:
 [2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
@@ -118,6 +118,9 @@ Solution|Comments
 [15.3-sum.py](./code/15.3-sum.py)|list.sort() is faster than sorted(list)
 [16.3-sum-closest.py](./code/16.3-sum-closest.py)|N/A
 [17.letter-combinations-of-a-phone-number.py](./code/17.letter-combinations-of-a-phone-number.py)|backtracking without removing path can use iterative method
+[18.4-sum.py](./code/18.4-sum.py)|Two pointers and hash set
+[19.remove-nth-node-from-end-of-list.py](./code/19.remove-nth-node-from-end-of-list.py)|Fast and slow pointers
+[22.generate-parentheses.py](./code/22.generate-parentheses.py)|DP solution "("f(i)")"f(n-1-i)
 
 # Hard:
 #### count: 1
