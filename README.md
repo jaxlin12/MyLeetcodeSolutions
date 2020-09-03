@@ -105,7 +105,7 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
 # Medium:
-#### count: 7
+#### count: 9
 Solution|Comments
 :-|:-:
 [2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
@@ -115,6 +115,8 @@ Solution|Comments
 [8.string-to-integer-atoi.py](./code/8.string-to-integer-atoi.py)|N/A
 [11.container-with-most-water.py](./code/11.container-with-most-water.py)|Two pointers greedy algorithm move the shorter bound
 [12.integer-to-roman.py](./code/12.integer-to-roman.py)|N/A
+[15.3-sum.py](./code/15.3-sum.py)|list.sort() is faster than sorted(list)
+[16.3-sum-closest.py](./code/16.3-sum-closest.py)|N/A
 
 # Hard:
 #### count:
