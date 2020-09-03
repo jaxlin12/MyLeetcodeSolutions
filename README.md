@@ -120,7 +120,7 @@ Solution|Comments
 [17.letter-combinations-of-a-phone-number.py](./code/17.letter-combinations-of-a-phone-number.py)|backtracking without removing path can use iterative method
 
 # Hard:
-#### count:
+#### count: 1
 Solution|Comments
 :-|:-:
-
+[4.median-of-two-sorted-arrays.py](./code/4.median-of-two-sorted-arrays.py)|Patition around the four nums near median such that all numbers on the left is less than all numbers on the right. O(log(min(m,n))); Merge takes O(n), O(1)
