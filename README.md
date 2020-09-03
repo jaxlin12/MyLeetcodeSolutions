@@ -85,7 +85,7 @@ Solution|Comments
 [387.first-unique-character-in-a-string.py](./code/387.first-unique-character-in-a-string.py)|collections.Counter
 [389.find-the-difference.py](./code/389.find-the-difference.py)|Use XOR to find the difference
 [392.is-subsequence.py](./code/392.is-subsequence.py)|Binary search for the follow-up question
-[401.binary-watch.py](./code/401.binary-watch.py)|itertools.combinations can only iterate once
+[401.binary-watch.py](./code/401.binary-watch.py)|itertools.combinations can only iterate once/ examine all time and count 1s
 [404.sum-of-left-leaves.py](./code/404.sum-of-left-leaves.py)|N/A
 [405.convert-a-number-to-hexadecimal.py](./code/405.convert-a-number-to-hexadecimal.py)|Two's complement in Python & 0xffffffff -1 => 2^32-1
 [409.longest-palindrome.py](./code/409.longest-palindrome.py)|N/A
@@ -105,7 +105,7 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
 # Medium:
-#### count: 9
+#### count: 10
 Solution|Comments
 :-|:-:
 [2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
@@ -117,6 +117,7 @@ Solution|Comments
 [12.integer-to-roman.py](./code/12.integer-to-roman.py)|N/A
 [15.3-sum.py](./code/15.3-sum.py)|list.sort() is faster than sorted(list)
 [16.3-sum-closest.py](./code/16.3-sum-closest.py)|N/A
+[17.letter-combinations-of-a-phone-number.py](./code/17.letter-combinations-of-a-phone-number.py)|backtracking without removing path can use iterative method
 
 # Hard:
 #### count:
