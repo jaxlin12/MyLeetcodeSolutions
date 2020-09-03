@@ -105,7 +105,7 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
 # Medium:
-#### count: 6
+#### count: 7
 Solution|Comments
 :-|:-:
 [2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
@@ -114,6 +114,7 @@ Solution|Comments
 [6.zig-zag-conversion.py](./code/6.zig-zag-conversion.py)|Cycle len
 [8.string-to-integer-atoi.py](./code/8.string-to-integer-atoi.py)|N/A
 [11.container-with-most-water.py](./code/11.container-with-most-water.py)|Two pointers greedy algorithm move the shorter bound
+[12.integer-to-roman.py](./code/12.integer-to-roman.py)|N/A
 
 # Hard:
 #### count:
