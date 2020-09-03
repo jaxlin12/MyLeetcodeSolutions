@@ -105,7 +105,7 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
 # Medium:
-#### count: 13
+#### count: 14
 Solution|Comments
 :-|:-:
 [2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
@@ -121,6 +121,7 @@ Solution|Comments
 [18.4-sum.py](./code/18.4-sum.py)|Two pointers and hash set
 [19.remove-nth-node-from-end-of-list.py](./code/19.remove-nth-node-from-end-of-list.py)|Fast and slow pointers
 [22.generate-parentheses.py](./code/22.generate-parentheses.py)|DP solution "("f(i)")"f(n-1-i)
+[24.swap-nodes-in-pairs.py](./code/24.swap-nodes-in-pairs.py)|Remember previous node other than the two needed to be swapped
 
 # Hard:
 #### count: 1
