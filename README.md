@@ -105,7 +105,7 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
 # Medium:
-#### count: 16
+#### count: 17
 Solution|Comments
 :-|:-:
 [2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
@@ -124,6 +124,7 @@ Solution|Comments
 [24.swap-nodes-in-pairs.py](./code/24.swap-nodes-in-pairs.py)|Remember previous node other than the two needed to be swapped
 [29.divide-two-integers.py](./code/29.divide-two-integers.py)|22 = 2^2 * 3 + 2^1 * 3 + 2^0 * 3 => 22 > 3 << 2, 10 > 3 << 1, 4 > 3 << 0
 [31.next-permutation.py](./code/31.next-permutation.py)|Swap the first decreasing number with its next number, and reverse the nums after it since the original order is increasing. Its reverse is guarantee to be the smallest.
+[33.search-in-rotated-sorted-array.py](./code/33.search-in-rotated-sorted-array.py)|Binary Search
 
 # Hard:
 #### count: 1
