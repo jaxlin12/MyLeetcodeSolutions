@@ -130,7 +130,8 @@ Solution|Comments
 [39.combination-sum.py](./code/39.combination-sum.py)|O(n^T/m+1), O(T/M)
 
 # Hard:
-#### count: 1
+#### count: 2
 Solution|Comments
 :-|:-:
 [4.median-of-two-sorted-arrays.py](./code/4.median-of-two-sorted-arrays.py)|Patition around the four nums near median such that all numbers on the left is less than all numbers on the right. O(log(min(m,n))); Merge takes O(n), O(1)
+[10.regular-expression-matching.py](./code/10.regular-expression-matching.py)|Dynamic programming DP(i,j+2) or match and DP(i+1, j)
