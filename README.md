@@ -105,7 +105,7 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
 # Medium:
-#### count: 22
+#### count: 25
 Solution|Comments
 :-|:-:
 [2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
@@ -130,6 +130,9 @@ Solution|Comments
 [39.combination-sum.py](./code/39.combination-sum.py)|O(n^T/m+1), O(T/M)
 [40.combination-sum-ii.py](./code/40.combination-sum-ii.py)|Tail Recursion
 [43.multiply-strings.py](./code/43.multiply-strings.py)|Multiply one position moving from the end
+[46.permutations.py](./code/46.permutations.py)|DFS backtracking
+[47.permutations-ii.py](./code/47.permutations-ii.py)|N/A
+[48.rotate-image.py](./code/48.rotate-image.py)|Deep copy vs shadow copy
 
 # Hard:
 #### count: 2
