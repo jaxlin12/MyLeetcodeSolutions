@@ -105,7 +105,7 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
 # Medium:
-#### count: 25
+#### count: 27
 Solution|Comments
 :-|:-:
 [2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
@@ -133,6 +133,7 @@ Solution|Comments
 [46.permutations.py](./code/46.permutations.py)|DFS backtracking
 [47.permutations-ii.py](./code/47.permutations-ii.py)|N/A
 [48.rotate-image.py](./code/48.rotate-image.py)|Deep copy vs shadow copy
+[49.group-anagrams.py](./code/49.group-anagrams.py)|Dict is not hashable but turple is
 
 # Hard:
 #### count: 2
