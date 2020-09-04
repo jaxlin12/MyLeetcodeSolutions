@@ -105,7 +105,7 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
 # Medium:
-#### count: 27
+#### count: 28
 Solution|Comments
 :-|:-:
 [2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
@@ -134,6 +134,8 @@ Solution|Comments
 [47.permutations-ii.py](./code/47.permutations-ii.py)|N/A
 [48.rotate-image.py](./code/48.rotate-image.py)|Deep copy vs shadow copy
 [49.group-anagrams.py](./code/49.group-anagrams.py)|Dict is not hashable but turple is
+[50.pow-x-n.py](./code/50.pow-x-n.py)|Recursion myPow(x*x, n // 2) if even else x *self.myPow(x, n-1)
+[54.spiral-matrix.py](./code/54.spiral-matrix.py)|N/A
 
 # Hard:
 #### count: 2
