@@ -140,8 +140,9 @@ Solution|Comments
 [56.merge-intervals.py](./code/56.merge-intervals.py)|N/A
 
 # Hard:
-#### count: 2
+#### count: 3
 Solution|Comments
 :-|:-:
 [4.median-of-two-sorted-arrays.py](./code/4.median-of-two-sorted-arrays.py)|Patition around the four nums near median such that all numbers on the left is less than all numbers on the right. O(log(min(m,n))); Merge takes O(n), O(1)
 [10.regular-expression-matching.py](./code/10.regular-expression-matching.py)|Dynamic programming DP(i,j+2) or match and DP(i+1, j)
+[23.merge-k-sorted-lists.py](./code/23.merge-k-sorted-lists.py)|N/A
