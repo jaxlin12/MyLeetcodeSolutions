@@ -105,7 +105,7 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
 # Medium:
-#### count: 29
+#### count: 30
 Solution|Comments
 :-|:-:
 [2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
@@ -137,6 +137,7 @@ Solution|Comments
 [50.pow-x-n.py](./code/50.pow-x-n.py)|Recursion myPow(x*x, n // 2) if even else x *self.myPow(x, n-1)
 [54.spiral-matrix.py](./code/54.spiral-matrix.py)|N/A
 [55.jump-game.py](./code/55.jump-game.py)|m = max(m, i+n) where m is the max index we can reach so far, n is the nums[i]
+[56.merge-intervals.py](./code/56.merge-intervals.py)|N/A
 
 # Hard:
 #### count: 2
