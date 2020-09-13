@@ -105,7 +105,7 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
 # Medium:
-#### count: 30
+#### count: 31
 Solution|Comments
 :-|:-:
 [2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
@@ -138,6 +138,7 @@ Solution|Comments
 [54.spiral-matrix.py](./code/54.spiral-matrix.py)|N/A
 [55.jump-game.py](./code/55.jump-game.py)|m = max(m, i+n) where m is the max index we can reach so far, n is the nums[i]
 [56.merge-intervals.py](./code/56.merge-intervals.py)|N/A
+[59.spiral-matrix-ii.py](./code/59.spiral-matrix-ii.py)|N/A
 
 # Hard:
 #### count: 4
