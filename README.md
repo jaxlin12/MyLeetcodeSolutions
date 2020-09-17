@@ -105,7 +105,7 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
 # Medium:
-#### count: 41
+#### count: 42
 Solution|Comments
 :-|:-:
 [2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
@@ -149,6 +149,7 @@ Solution|Comments
 [74.search-a-2-d-matrix.py](./code/74.search-a-2-d-matrix.py)|N/A
 [75.sort-colors.py](./code/75.sort-colors.py)|dutch partitioning problem: red is always 0, blue is always 2. Move white pointer
 [77.combinations.py](./code/77.combinations.py)|N/A
+[78.subsets.py](./code/78.subsets.py)|N/A
 
 
 # Hard:
