@@ -105,7 +105,7 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
 # Medium:
-#### count: 40
+#### count: 41
 Solution|Comments
 :-|:-:
 [2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
@@ -148,6 +148,7 @@ Solution|Comments
 [73.set-matrix-zeroes.py](./code/73.set-matrix-zeroes.py)|Use first row and first column as indicator, and additional variable for M[0][0]
 [74.search-a-2-d-matrix.py](./code/74.search-a-2-d-matrix.py)|N/A
 [75.sort-colors.py](./code/75.sort-colors.py)|dutch partitioning problem: red is always 0, blue is always 2. Move white pointer
+[77.combinations.py](./code/77.combinations.py)|N/A
 
 
 # Hard:
