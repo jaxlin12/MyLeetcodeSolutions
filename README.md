@@ -105,7 +105,7 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
 # Medium:
-#### count: 37
+#### count: 39
 Solution|Comments
 :-|:-:
 [2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
@@ -145,6 +145,9 @@ Solution|Comments
 [63.unique-paths-ii.py](./code/63.unique-paths-ii.py)|N/A
 [64.minimum-path-sum.py](./code/64.minimum-path-sum.py)|N/A
 [71.simplify-path.py](./code/71.simplify-path.py)|N/A
+[73.set-matrix-zeroes.py](./code/73.set-matrix-zeroes.py)|Use first row and first column as indicator, and additional variable for M[0][0]
+[74.search-a-2-d-matrix.py](./code/74.search-a-2-d-matrix.py)|N/A
+
 
 # Hard:
 #### count: 4
