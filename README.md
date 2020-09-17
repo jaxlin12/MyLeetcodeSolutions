@@ -105,7 +105,7 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
 # Medium:
-#### count: 36
+#### count: 37
 Solution|Comments
 :-|:-:
 [2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
@@ -144,6 +144,7 @@ Solution|Comments
 [62.unique-paths.py](./code/62.unique-paths.py)|C(m+n-2, m-1, n-1)
 [63.unique-paths-ii.py](./code/63.unique-paths-ii.py)|N/A
 [64.minimum-path-sum.py](./code/64.minimum-path-sum.py)|N/A
+[71.simplify-path.py](./code/71.simplify-path.py)|N/A
 
 # Hard:
 #### count: 4
