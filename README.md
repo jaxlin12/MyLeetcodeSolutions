@@ -105,7 +105,7 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
 # Medium:
-#### count: 50
+#### count: 51
 Solution|Comments
 :-|:-:
 [2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
@@ -158,6 +158,7 @@ Solution|Comments
 [90.subsets-ii.py](./code/90.subsets-ii.py)|N/A
 [91.decode-ways.py](./code/91.decode-ways.py)|Dynamic Programming
 [92.reverse-linked-list-ii.py](./code/92.reverse-linked-list-ii.py)|N/A
+[93.restore-ip-addresses.py](./code/93.restore-ip-addresses.py)|N/A
 
 # Hard:
 #### count: 4
