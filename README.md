@@ -105,7 +105,7 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
 # Medium:
-#### count: 47
+#### count: 49
 Solution|Comments
 :-|:-:
 [2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
@@ -155,6 +155,8 @@ Solution|Comments
 [81.search-in-rotated-sorted-array-ii.py](./code/81.search-in-rotated-sorted-array-ii.py)|N/A
 [82.remove-duplicates-from-sorted-list-ii.py](./code/82.remove-duplicates-from-sorted-list-ii.py)|N/A
 [86.partition-list.py](./code/86.partition-list.py)|N/A
+[90.subsets-ii.py](./code/90.subsets-ii.py)|N/A
+[91.decode-ways.py](./code/91.decode-ways.py)|Dynamic Programming
 
 
 # Hard:
