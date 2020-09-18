@@ -105,7 +105,7 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
 # Medium:
-#### count: 55
+#### count: 56
 Solution|Comments
 :-|:-:
 [2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
@@ -163,6 +163,7 @@ Solution|Comments
 [95.unique-binary-search-trees-ii.py](./code/95.unique-binary-search-trees-ii.py)|i in range(start, end) => dfs(start, i) and dfs(i+1, end)
 [96.unique-binary-search-trees.py](./code/96.unique-binary-search-trees.py)|N/A
 [98.validate-binary-search-tree.py](./code/98.validate-binary-search-tree.py)|Inorder Traverse
+[102.binary-tree-level-order-traversal.py](./code/102.binary-tree-level-order-traversal.py)|BSF with levels flag
 
 # Hard:
 #### count: 4
