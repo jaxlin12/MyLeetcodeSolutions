@@ -105,7 +105,7 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
 # Medium:
-#### count: 49
+#### count: 50
 Solution|Comments
 :-|:-:
 [2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
@@ -157,7 +157,7 @@ Solution|Comments
 [86.partition-list.py](./code/86.partition-list.py)|N/A
 [90.subsets-ii.py](./code/90.subsets-ii.py)|N/A
 [91.decode-ways.py](./code/91.decode-ways.py)|Dynamic Programming
-
+[92.reverse-linked-list-ii.py](./code/92.reverse-linked-list-ii.py)|N/A
 
 # Hard:
 #### count: 4
