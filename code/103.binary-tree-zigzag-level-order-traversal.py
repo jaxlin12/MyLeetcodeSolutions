@@ -1,7 +1,7 @@
 #
-# @lc app=leetcode id=102 lang=python3
+# @lc app=leetcode id=103 lang=python3
 #
-# [102] Binary Tree Level Order Traversal
+# [103] Binary Tree Zigzag Level Order Traversal
 #
 
 # @lc code=start
@@ -12,7 +12,7 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def levelOrder(self, root: TreeNode) -> List[List[int]]:
+    def zigzagLevelOrder(self, root: TreeNode) -> List[List[int]]:
         if root == None:
             return []
         queue = [root]
@@ -34,8 +34,13 @@ class Solution:
                 if new_level == None:
                     new_level = ptr.right
 
-        return ret
+        i = 1
+        for level in ret:
+            if i % 2 == 0:
+                level.reverse()
+            i += 1
 
+        return ret
 
 # @lc code=end
 
