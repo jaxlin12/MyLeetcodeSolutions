@@ -6,24 +6,23 @@
 
 # @lc code=start
 class Solution:
-    def check(self, i, j, word, visted):
+    def check(self, i, j, word, index, visted):
+        if index == len(word):
+            return True
         if (i,j) in visted:
             return False
         if not (0 <= i < self.height):
             return False
         if not (0 <= j < self.width):
             return False
-        if self.board[i][j] == word[0]:
-            if len(word) == 1:
-                return True
+        if self.board[i][j] == word[index]:
             visted.append((i, j))
-            if not (self.check(i-1, j, word[1:], visted) or self.check(i+1, j, word[1:], visted) or self.check(i, j-1, word[1:], visted) or self.check(i, j+1, word[1:], visted)):
+            if not (self.check(i-1, j, word, index+1, visted) or self.check(i+1, j, word, index+1 ,visted) or self.check(i, j-1, word, index+1, visted) or self.check(i, j+1, word, index+1, visted)):
                 visted.pop()
                 return False
             return True
         else:
             return False
-
 
     def exist(self, board: List[List[str]], word: str) -> bool:
         self.height = len(board)
@@ -35,7 +34,7 @@ class Solution:
         self.board = board
         for i in range(self.height):
             for j in range(self.width):
-                if self.check(i, j, word, []):
+                if self.check(i, j, word, 0, []):
                     return True
 
         return False
