@@ -105,7 +105,7 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
 # Medium:
-#### count: 60
+#### count: 61
 Solution|Comments
 :-|:-:
 [2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
@@ -168,6 +168,8 @@ Solution|Comments
 [105.construct-binary-tree-from-preorder-and-inorder-traversal.py](./code/105.construct-binary-tree-from-preorder-and-inorder-traversal.py)|🐮🍺Inorder split into two, use dict to aviod searching for subroot
 [106.construct-binary-tree-from-inorder-and-postorder-traversal.py](./code/106.construct-binary-tree-from-inorder-and-postorder-traversal.py)|Postorder is reverse of preorder but left and right switch
 [109.convert-sorted-list-to-binary-search-tree.py](./code/109.convert-sorted-list-to-binary-search-tree.py)|N/A
+[113.path-sum-ii.py](./code/113.path-sum-ii.py)|N/A
+
 
 # Hard:
 
