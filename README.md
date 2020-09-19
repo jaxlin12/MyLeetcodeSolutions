@@ -105,7 +105,7 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
 # Medium:
-#### count: 58
+#### count: 59
 Solution|Comments
 :-|:-:
 [2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
@@ -166,6 +166,7 @@ Solution|Comments
 [102.binary-tree-level-order-traversal.py](./code/102.binary-tree-level-order-traversal.py)|BSF with levels flag
 [103.binary-tree-zigzag-level-order-traversal.py](./code/103.binary-tree-zigzag-level-order-traversal.py)|list.pop(0) takes O(n), should use deque
 [105.construct-binary-tree-from-preorder-and-inorder-traversal.py](./code/105.construct-binary-tree-from-preorder-and-inorder-traversal.py)|🐮🍺Inorder split into two, use dict to aviod searching for subroot
+[106.construct-binary-tree-from-inorder-and-postorder-traversal.py](./code/106.construct-binary-tree-from-inorder-and-postorder-traversal.py)|Postorder is reverse of preorder but left and right switch
 
 # Hard:
 #### count: 4
