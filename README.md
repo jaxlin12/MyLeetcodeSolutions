@@ -105,7 +105,7 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
 # Medium:
-#### count: 64
+#### count: 65
 Solution|Comments
 :-|:-:
 [2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
@@ -172,6 +172,7 @@ Solution|Comments
 [114.flatten-binary-tree-to-linked-list.py](./code/114.flatten-binary-tree-to-linked-list.py)|N/A
 [116.populating-next-right-pointers-in-each-node.py](./code/116.populating-next-right-pointers-in-each-node.py)|N/A
 [117.populating-next-right-pointers-in-each-node-ii.py](./code/117.populating-next-right-pointers-in-each-node-ii.py)|N/A
+[120.triangle.py](./code/120.triangle.py)|N/A
 
 # Hard:
 
