@@ -105,7 +105,7 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
 # Medium:
-#### count: 62
+#### count: 64
 Solution|Comments
 :-|:-:
 [2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
@@ -170,6 +170,8 @@ Solution|Comments
 [109.convert-sorted-list-to-binary-search-tree.py](./code/109.convert-sorted-list-to-binary-search-tree.py)|N/A
 [113.path-sum-ii.py](./code/113.path-sum-ii.py)|N/A
 [114.flatten-binary-tree-to-linked-list.py](./code/114.flatten-binary-tree-to-linked-list.py)|N/A
+[116.populating-next-right-pointers-in-each-node.py](./code/116.populating-next-right-pointers-in-each-node.py)|N/A
+[117.populating-next-right-pointers-in-each-node-ii.py](./code/117.populating-next-right-pointers-in-each-node-ii.py)|N/A
 
 # Hard:
 
