@@ -105,7 +105,7 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
 # Medium:
-#### count: 69
+#### count: 70
 Solution|Comments
 :-|:-:
 [2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
@@ -177,6 +177,7 @@ Solution|Comments
 [129.sum-root-to-leaf-numbers.py](./code/129.sum-root-to-leaf-numbers.py)|N/A
 [130.surrounded-regions.py](./code/130.surrounded-regions.py)|N/A
 [131.palindrome-partitioning.py](./code/131.palindrome-partitioning.py)|N/A
+[133.clone-graph.py](./code/133.clone-graph.py)|N/A
 
 # Hard:
 
