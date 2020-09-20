@@ -105,7 +105,7 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
 # Medium:
-#### count: 71
+#### count: 72
 Solution|Comments
 :-|:-:
 [2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
@@ -179,6 +179,7 @@ Solution|Comments
 [131.palindrome-partitioning.py](./code/131.palindrome-partitioning.py)|N/A
 [133.clone-graph.py](./code/133.clone-graph.py)|N/A
 [134.gas-station.py](./code/134.gas-station.py)|Greedy algorithm: sum and current_sum
+[137.single-number-ii.py](./code/137.single-number-ii.py)|Bit counter for each index. Appears 3 time needs 2 bits which are two variables to store.
 
 # Hard:
 
