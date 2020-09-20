@@ -105,7 +105,7 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
 # Medium:
-#### count: 67
+#### count: 68
 Solution|Comments
 :-|:-:
 [2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
@@ -175,6 +175,7 @@ Solution|Comments
 [120.triangle.py](./code/120.triangle.py)|N/A
 [127.word-ladder.py](./code/127.word-ladder.py)|All combo words to avoid running n^2 checking
 [129.sum-root-to-leaf-numbers.py](./code/129.sum-root-to-leaf-numbers.py)|N/A
+[130.surrounded-regions.py](./code/130.surrounded-regions.py)|N/A
 
 # Hard:
 
