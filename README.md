@@ -105,7 +105,7 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
 # Medium:
-#### count: 87
+#### count: 88
 Solution|Comments
 :-|:-:
 [2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
@@ -195,6 +195,7 @@ Solution|Comments
 [162.find-peak-element.py](./code/162.find-peak-element.py)|N/A
 [165.compare-version-numbers.py](./code/165.compare-version-numbers.py)|N/A
 [166.fraction-to-recurring-decimal.py](./code/166.fraction-to-recurring-decimal.py)|N/A
+[173.binary-search-tree-iterator.py](./code/173.binary-search-tree-iterator.py)|N/A
 
 # Hard:
 
