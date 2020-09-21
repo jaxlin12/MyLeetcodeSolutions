@@ -105,7 +105,7 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
 # Medium:
-#### count: 79
+#### count: 80
 Solution|Comments
 :-|:-:
 [2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
@@ -187,6 +187,7 @@ Solution|Comments
 [144.binary-tree-preorder-traversal.py](./code/144.binary-tree-preorder-traversal.py)|N/A
 [146.lru-cache.py](./code/146.lru-cache.py)|Double linekd list + Hash Map = OrderedDict
 [147.insertion-sort-list.py](./code/147.insertion-sort-list.py)|N/A
+[148.sort-list.py](./code/148.sort-list.py)|N/A
 
 # Hard:
 
