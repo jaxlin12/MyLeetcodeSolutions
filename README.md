@@ -105,7 +105,7 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
 # Medium:
-#### count: 76
+#### count: 77
 Solution|Comments
 :-|:-:
 [2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
@@ -184,6 +184,7 @@ Solution|Comments
 [139.word-break.py](./code/139.word-break.py)|O(m^2 * n) vs. O(mn)
 [142.linked-list-cycle-ii.py](./code/142.linked-list-cycle-ii.py)|N/A
 [143.reorder-list.py](./code/143.reorder-list.py)|N/A
+[144.binary-tree-preorder-traversal.py](./code/144.binary-tree-preorder-traversal.py)|N/A
 
 # Hard:
 
