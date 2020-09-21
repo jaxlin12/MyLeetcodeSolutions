@@ -105,7 +105,7 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
 # Medium:
-#### count: 85
+#### count: 87
 Solution|Comments
 :-|:-:
 [2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
@@ -193,6 +193,8 @@ Solution|Comments
 [152.maximum-product-subarray.py](./code/152.maximum-product-subarray.py)|Greddy algorithm takes the max positive and min negative at each index
 [153.find-minimum-in-rotated-sorted-array.py](./code/153.find-minimum-in-rotated-sorted-array.py)|N/A
 [162.find-peak-element.py](./code/162.find-peak-element.py)|N/A
+[165.compare-version-numbers.py](./code/165.compare-version-numbers.py)|N/A
+[166.fraction-to-recurring-decimal.py](./code/166.fraction-to-recurring-decimal.py)|N/A
 
 # Hard:
 
