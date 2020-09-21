@@ -105,7 +105,7 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
 # Medium:
-#### count: 77
+#### count: 78
 Solution|Comments
 :-|:-:
 [2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
@@ -185,6 +185,7 @@ Solution|Comments
 [142.linked-list-cycle-ii.py](./code/142.linked-list-cycle-ii.py)|N/A
 [143.reorder-list.py](./code/143.reorder-list.py)|N/A
 [144.binary-tree-preorder-traversal.py](./code/144.binary-tree-preorder-traversal.py)|N/A
+[146.lru-cache.py](./code/146.lru-cache.py)|N/A
 
 # Hard:
 
