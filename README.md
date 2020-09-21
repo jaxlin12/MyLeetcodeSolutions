@@ -105,7 +105,7 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
 # Medium:
-#### count: 81
+#### count: 82
 Solution|Comments
 :-|:-:
 [2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
@@ -189,6 +189,7 @@ Solution|Comments
 [147.insertion-sort-list.py](./code/147.insertion-sort-list.py)|N/A
 [148.sort-list.py](./code/148.sort-list.py)|N/A
 [150.evaluate-reverse-polish-notation.py](./code/150.evaluate-reverse-polish-notation.py)|N/A
+[151.reverse-words-in-a-string.py](./code/151.reverse-words-in-a-string.py)|N/A
 
 # Hard:
 
