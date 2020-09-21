@@ -105,7 +105,7 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
 # Medium:
-#### count: 73
+#### count: 76
 Solution|Comments
 :-|:-:
 [2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
@@ -181,6 +181,9 @@ Solution|Comments
 [134.gas-station.py](./code/134.gas-station.py)|Greedy algorithm: sum and current_sum
 [137.single-number-ii.py](./code/137.single-number-ii.py)|Bit counter for each index. Appears 3 time needs 2 bits which are two variables to store.
 [138.copy-list-with-random-pointer.py](./code/138.copy-list-with-random-pointer.py)|N/A
+[139.word-break.py](./code/139.word-break.py)|O(m^2 * n) vs. O(mn)
+[142.linked-list-cycle-ii.py](./code/142.linked-list-cycle-ii.py)|N/A
+[143.reorder-list.py](./code/143.reorder-list.py)|N/A
 
 # Hard:
 
