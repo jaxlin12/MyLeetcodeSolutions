@@ -14,13 +14,9 @@ class Solution:
             return nums[0]
         
         maximum = max(nums)
-        if nums[-1] >= 0:
-            positive = nums[-1]
-            negative = 0
-        else:
-            positive = 0
-            negative = nums[-1]
-        for i in range(size-2, -1, -1):
+        positive = 0
+        negative = 0
+        for i in range(size-1, -1, -1):
             if nums[i] >= 0:
                 new_positive = nums[i] * max(1, positive)
                 new_negative = nums[i] * min(0, negative)
