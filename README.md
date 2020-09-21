@@ -105,7 +105,7 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
 # Medium:
-#### count: 92
+#### count: 93
 Solution|Comments
 :-|:-:
 [2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
@@ -200,6 +200,7 @@ Solution|Comments
 [187.repeated-dna-sequences.py](./code/187.repeated-dna-sequences.py)|N/A
 [199.binary-tree-right-side-view.py](./code/199.binary-tree-right-side-view.py)|N/A
 [200.number-of-islands.py](./code/200.number-of-islands.py)|N/A
+[201.bitwise-and-of-numbers-range.py](./code/201.bitwise-and-of-numbers-range.py)|n = n & (n-1)
 
 # Hard:
 
