@@ -185,7 +185,7 @@ Solution|Comments
 [142.linked-list-cycle-ii.py](./code/142.linked-list-cycle-ii.py)|N/A
 [143.reorder-list.py](./code/143.reorder-list.py)|N/A
 [144.binary-tree-preorder-traversal.py](./code/144.binary-tree-preorder-traversal.py)|N/A
-[146.lru-cache.py](./code/146.lru-cache.py)|N/A
+[146.lru-cache.py](./code/146.lru-cache.py)|Double linekd list + Hash Map = OrderedDict
 
 # Hard:
 
