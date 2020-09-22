@@ -211,7 +211,7 @@ Solution|Comments
 
 # Hard:
 
-#### count: 5
+#### count: 6
 
 Solution|Comments
 :-|:-:
@@ -220,3 +220,4 @@ Solution|Comments
 [23.merge-k-sorted-lists.py](./code/23.merge-k-sorted-lists.py)|N/A
 [25.reverse-nodes-in-k-group.py](./code/25.reverse-nodes-in-k-group.py)|N/A
 [30.substring-with-concatenation-of-all-words.py](./code/30.substring-with-concatenation-of-all-words.py)|N/A
+[32.longest-valid-parentheses.py](./code/32.longest-valid-parentheses.py)|DP, Stack push empty ') index and '(' index, two passes from left to right and right to left, compute max if left == right
