@@ -211,7 +211,7 @@ Solution|Comments
 
 # Hard:
 
-#### count: 4
+#### count: 5
 
 Solution|Comments
 :-|:-:
@@ -219,3 +219,4 @@ Solution|Comments
 [10.regular-expression-matching.py](./code/10.regular-expression-matching.py)|Dynamic programming DP(i,j+2) or match and DP(i+1, j)
 [23.merge-k-sorted-lists.py](./code/23.merge-k-sorted-lists.py)|N/A
 [25.reverse-nodes-in-k-group.py](./code/25.reverse-nodes-in-k-group.py)|N/A
+[30.substring-with-concatenation-of-all-words.py](./code/30.substring-with-concatenation-of-all-words.py)|N/A
