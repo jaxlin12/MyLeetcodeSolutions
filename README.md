@@ -105,7 +105,7 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
 # Medium:
-#### count: 95
+#### count: 96
 Solution|Comments
 :-|:-:
 [2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
@@ -203,6 +203,7 @@ Solution|Comments
 [201.bitwise-and-of-numbers-range.py](./code/201.bitwise-and-of-numbers-range.py)|n = n & (n-1)
 [207.course-schedule.py](./code/207.course-schedule.py)|N/A
 [208.implement-trie-prefix-tree.py](./code/208.implement-trie-prefix-tree.py)|Trie
+[209.minimum-size-subarray-sum.py](./code/209.minimum-size-subarray-sum.py)|N/A
 
 # Hard:
 
