@@ -105,7 +105,7 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
 # Medium:
-#### count: 99
+#### count: 100
 Solution|Comments
 :-|:-:
 [2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
@@ -207,6 +207,7 @@ Solution|Comments
 [210.course-schedule-ii.py](./code/210.course-schedule-ii.py)|N/A
 [211.add-and-search-word-data-structure-design.py](./code/211.add-and-search-word-data-structure-design.py)|Trie
 [213.house-robber-ii.py](./code/213.house-robber-ii.py)|N/A
+[215.kth-largest-element-in-an-array.py](./code/215.kth-largest-element-in-an-array.py)|N/A
 
 # Hard:
 
