@@ -3,7 +3,7 @@
 #### count: 100
 Solution|Comments
 :-|:-:
-[[1.two-sum.py](https://leetcode.com/problems/two-sum/)](./code/1.two-sum.py)|N/A
+[1.two-sum.py](./code/1.two-sum.py)|N/A
 [7.reverse-integer.py](./code/7.reverse-integer.py)|N/A
 [9.palindrome-number.py](./code/9.palindrome-number.py)|N/A
 [13.roman-to-integer.py](./code/13.roman-to-integer.py)|N/A
