@@ -13,7 +13,7 @@ class Solution:
         # QuickSelect idea: AC in 52 ms
         # ---------------------------
         #
-        pivot = nums[random.choice(range(len(nums)))]
+        pivot = nums[randint(0, len(nums) - 1)]
 
         right = [r for r in nums if r > pivot]
         if k <= len(right):
