@@ -105,7 +105,7 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
 # Medium:
-#### count: 100
+#### count: 101
 Solution|Comments
 :-|:-:
 [2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
@@ -208,10 +208,11 @@ Solution|Comments
 [211.add-and-search-word-data-structure-design.py](./code/211.add-and-search-word-data-structure-design.py)|Trie
 [213.house-robber-ii.py](./code/213.house-robber-ii.py)|N/A
 [215.kth-largest-element-in-an-array.py](./code/215.kth-largest-element-in-an-array.py)|N/A
+[394.decode-string.py](./code/394.decode-string.py)|N/A
 
 # Hard:
 
-#### count: 6
+#### count: 7
 
 Solution|Comments
 :-|:-:
@@ -221,3 +222,4 @@ Solution|Comments
 [25.reverse-nodes-in-k-group.py](./code/25.reverse-nodes-in-k-group.py)|N/A
 [30.substring-with-concatenation-of-all-words.py](./code/30.substring-with-concatenation-of-all-words.py)|N/A
 [32.longest-valid-parentheses.py](./code/32.longest-valid-parentheses.py)|DP, Stack push empty ') index and '(' index, two passes from left to right and right to left, compute max if left == right
+[42.trapping-rain-water.py](./code/42.trapping-rain-water.py)|Two Pointers, always move the dirction with the smaller bound, and updating the smaller bound
