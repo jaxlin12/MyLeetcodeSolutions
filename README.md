@@ -217,7 +217,7 @@ Solution|Comments
 
 ## Hard
 
-### count: 10
+### count: 11
 
 Solution|Comments
 :-|:-:
@@ -231,6 +231,7 @@ Solution|Comments
 [44.wildcard-matching.py](./code/44.wildcard-matching.py)|Dynamic Programmin, be careful '*" at the end. Bottom up could takes O(1) space
 [57.insert-interval.py](./code/57.insert-interval.py)|Consider all cases!!!
 [128.longest-consecutive-sequence.py](./code/128.longest-consecutive-sequence.py)|Hash map, Union Find (Connected Components & Strongly Connected Components)
+[140.word-break-ii.py](./code/140.word-break-ii.py)|Dynamic Programming + Backtracking
 
 ## Note
 
