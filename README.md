@@ -217,7 +217,7 @@ Solution|Comments
 
 ## Hard
 
-### count: 9
+### count: 10
 
 Solution|Comments
 :-|:-:
@@ -230,6 +230,7 @@ Solution|Comments
 [42.trapping-rain-water.py](./code/42.trapping-rain-water.py)|Two Pointers, always move the dirction with the smaller bound, and updating the smaller bound
 [44.wildcard-matching.py](./code/44.wildcard-matching.py)|Dynamic Programmin, be careful '*" at the end. Bottom up could takes O(1) space
 [57.insert-interval.py](./code/57.insert-interval.py)|Consider all cases!!!
+[128.longest-consecutive-sequence.py](./code/128.longest-consecutive-sequence.py)|Hash map, Union Find (Connected Components & Strongly Connected Components)
 
 ## Note
 
