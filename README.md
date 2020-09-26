@@ -1,6 +1,9 @@
 # MyLeetcodeSolutions
-# Easy:
-#### count: 100
+
+## Easy
+
+### count: 100
+
 Solution|Comments
 :-|:-:
 [1.two-sum.py](./code/1.two-sum.py)|N/A
@@ -39,7 +42,7 @@ Solution|Comments
 [136.single-number.py](./code/136.single-number.py)|XOR operation
 [141.linked-list-cycle.py](./code/141.linked-list-cycle.py)|Slow and fast pointers
 [155.min-stack.py](./code/155.min-stack.py)|push current min
-[160.intersection-of-two-linked-lists.py ](./code/160.intersection-of-two-linked-lists.py)|different length
+[160.intersection-of-two-linked-lists.py](./code/160.intersection-of-two-linked-lists.py)|different length
 [167.two-sum-ii-input-array-is-sorted.py](./code/167.two-sum-ii-input-array-is-sorted.py)|N/A
 [168.excel-sheet-column-title.py](./code/168.excel-sheet-column-title.py)|modulos with index 1
 [169.majority-element.py](./code/169.majority-element.py)|Boyer-Moore Voting Algorithm
@@ -104,8 +107,10 @@ Solution|Comments
 [461.hamming-distance.py](./code/461.hamming-distance.py)|N/A
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 
-# Medium:
-#### count: 101
+## Medium
+
+### count: 101
+
 Solution|Comments
 :-|:-:
 [2.add-two-numbers.py](./code/2.add-two-numbers.py)|N/A
@@ -210,9 +215,9 @@ Solution|Comments
 [215.kth-largest-element-in-an-array.py](./code/215.kth-largest-element-in-an-array.py)|N/A
 [394.decode-string.py](./code/394.decode-string.py)|N/A
 
-# Hard:
+## Hard
 
-#### count: 9
+### count: 9
 
 Solution|Comments
 :-|:-:
@@ -226,7 +231,7 @@ Solution|Comments
 [44.wildcard-matching.py](./code/44.wildcard-matching.py)|Dynamic Programmin, be careful '*" at the end. Bottom up could takes O(1) space
 [57.insert-interval.py](./code/57.insert-interval.py)|Consider all cases!!!
 
-# Note:
+## Note
 
 1. Pre-processing as much as possible before double loops:
 
