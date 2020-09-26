@@ -225,3 +225,18 @@ Solution|Comments
 [42.trapping-rain-water.py](./code/42.trapping-rain-water.py)|Two Pointers, always move the dirction with the smaller bound, and updating the smaller bound
 [44.wildcard-matching.py](./code/44.wildcard-matching.py)|Dynamic Programmin, be careful '*" at the end. Bottom up could takes O(1) space
 [57.insert-interval.py](./code/57.insert-interval.py)|Consider all cases!!!
+
+# Note:
+
+1. Pre-processing as much as possible before double loops:
+
+   ```Python
+    for i in range(size):
+        d[i] = digit
+        d_dict[d[i]] = d_dict.get(d[i], 0) + 1
+        sum += a[i]
+    sum *= a[i] * size
+    for i in range(size):
+        for key in d_dict:
+            sum *= powOf10(a[i], key) * d_dict[key]
+    ```
