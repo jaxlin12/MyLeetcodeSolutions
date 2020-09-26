@@ -212,7 +212,7 @@ Solution|Comments
 
 # Hard:
 
-#### count: 7
+#### count: 8
 
 Solution|Comments
 :-|:-:
@@ -223,3 +223,4 @@ Solution|Comments
 [30.substring-with-concatenation-of-all-words.py](./code/30.substring-with-concatenation-of-all-words.py)|N/A
 [32.longest-valid-parentheses.py](./code/32.longest-valid-parentheses.py)|DP, Stack push empty ') index and '(' index, two passes from left to right and right to left, compute max if left == right
 [42.trapping-rain-water.py](./code/42.trapping-rain-water.py)|Two Pointers, always move the dirction with the smaller bound, and updating the smaller bound
+[44.wildcard-matching.py](./code/44.wildcard-matching.py)|Dynamic Programmin, be careful '*" at the end. Bottom up could takes O(1) space
