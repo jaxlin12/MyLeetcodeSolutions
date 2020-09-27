@@ -217,7 +217,7 @@ Solution|Comments
 
 ## Hard
 
-### count: 12
+### count: 13
 
 Solution|Comments
 :-|:-:
@@ -233,6 +233,7 @@ Solution|Comments
 [128.longest-consecutive-sequence.py](./code/128.longest-consecutive-sequence.py)|Hash map, Union Find (Connected Components & Strongly Connected Components)
 [140.word-break-ii.py](./code/140.word-break-ii.py)|Dynamic Programming + Backtracking
 [212.word-search-ii.py](./code/212.word-search-ii.py)|Trie bulid on top of words not boards, then DFS
+[214.shortest-palindrome.py](./code/214.shortest-palindrome.py)|rev + check + s[i:], the longest palindrome must exists in the first n letters
 
 ## Note
 
