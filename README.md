@@ -234,6 +234,7 @@ Solution|Comments
 [140.word-break-ii.py](./code/140.word-break-ii.py)|Dynamic Programming + Backtracking
 [212.word-search-ii.py](./code/212.word-search-ii.py)|Trie bulid on top of words not boards, then DFS
 [214.shortest-palindrome.py](./code/214.shortest-palindrome.py)|rev + check + s[i:], the longest palindrome must exists in the first n letters
+[218.the-skyline-problem.py](./code/218.the-skyline-problem.py)|[https://briangordon.github.io/2014/08/the-skyline-problem.html](https://briangordon.github.io/2014/08/the-skyline-problem.html)
 
 ## Note
 
