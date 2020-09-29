@@ -109,7 +109,7 @@ Solution|Comments
 
 ## Medium
 
-### count: 101
+### count: 102
 
 Solution|Comments
 :-|:-:
@@ -214,6 +214,7 @@ Solution|Comments
 [213.house-robber-ii.py](./code/213.house-robber-ii.py)|N/A
 [215.kth-largest-element-in-an-array.py](./code/215.kth-largest-element-in-an-array.py)|N/A
 [394.decode-string.py](./code/394.decode-string.py)|N/A
+[1027.longest-arithmetic-sequence.py](./code/1027.longest-arithmetic-sequence.py)|Dynamic Programming: dp[i, d] = dp[j, d] + 1
 
 ## Hard
 
