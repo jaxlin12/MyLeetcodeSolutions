@@ -260,8 +260,7 @@ Solution|Comments
 
 3. [Z-algorithm](https://personal.utdallas.edu/~besp/demo/John2010/z-algorithm.htm):
 
-    ```Python
-        The idea is to maintain an interval [L, R] which is the interval with max R
+    >    The idea is to maintain an interval [L, R] which is the interval with max R
     such that [L,R] is prefix substring (substring which is also prefix).
 
     Steps for maintaining this interval are as follows –
@@ -280,4 +279,3 @@ Solution|Comments
         b) If Z[K] >= R-i+1 then it is possible to extend the [L,R] interval
             thus we will set L as i and start matching from str[R]  onwards  and
             get new R then we will update interval [L,R] and calculate Z[i] (=R-L+1).
-    ```
