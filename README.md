@@ -215,6 +215,7 @@ Solution|Comments
 [215.kth-largest-element-in-an-array.py](./code/215.kth-largest-element-in-an-array.py)|N/A
 [394.decode-string.py](./code/394.decode-string.py)|N/A
 [1027.longest-arithmetic-sequence.py](./code/1027.longest-arithmetic-sequence.py)|Dynamic Programming: dp[i, d] = dp[j, d] + 1
+[1292.maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.py](./code/1292.maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.py)|Note #6
 
 ## Hard
 
@@ -236,7 +237,6 @@ Solution|Comments
 [212.word-search-ii.py](./code/212.word-search-ii.py)|Trie bulid on top of words not boards, then DFS
 [214.shortest-palindrome.py](./code/214.shortest-palindrome.py)|rev + check + s[i:], the longest palindrome must exists in the first n letters
 [218.the-skyline-problem.py](./code/218.the-skyline-problem.py)|[https://briangordon.github.io/2014/08/the-skyline-problem.html](https://briangordon.github.io/2014/08/the-skyline-problem.html)
-[1292.maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.py](./code/1292.maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.py)|Note #6
 
 ## Note
 
