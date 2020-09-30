@@ -273,9 +273,15 @@ Solution|Comments
     > [L,R] interval which we know is a prefix substring).
     >
     > Now two sub cases arise –
-    >     1) If Z[K] < R-i+1  then there is no prefix substring starting at
-    >         str[i] (otherwise Z[K] would be larger)  so  Z[i] = Z[K]  and
-    >         interval [L,R] remains same.
-    >     2) If Z[K] >= R-i+1 then it is possible to extend the [L,R] interval
-    >         thus we will set L as i and start matching from str[R]  onwards  and
-    >         get new R then we will update interval [L,R] and calculate Z[i] (=R-L+1).
+    >
+    >&nbsp;&nbsp;&nbsp;&nbsp;a) If Z[K] < R-i+1  then there is no prefix substring starting at
+    >
+    >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;str[i] (otherwise Z[K] would be larger)  so  Z[i] = Z[K]  and
+    >
+    >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;interval [L,R] remains same.
+    >
+    >&nbsp;&nbsp;&nbsp;&nbsp;b) If Z[K] >= R-i+1 then it is possible to extend the [L,R] interval
+    >
+    >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;thus we will set L as i and start matching from str[R]  onwards  and
+    >
+    >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;get new R then we will update interval [L,R] and calculate Z[i] (=R-L+1).
