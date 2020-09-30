@@ -236,6 +236,7 @@ Solution|Comments
 [212.word-search-ii.py](./code/212.word-search-ii.py)|Trie bulid on top of words not boards, then DFS
 [214.shortest-palindrome.py](./code/214.shortest-palindrome.py)|rev + check + s[i:], the longest palindrome must exists in the first n letters
 [218.the-skyline-problem.py](./code/218.the-skyline-problem.py)|[https://briangordon.github.io/2014/08/the-skyline-problem.html](https://briangordon.github.io/2014/08/the-skyline-problem.html)
+[1292.maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.py](./code/1292.maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.py)|Note #6
 
 ## Note
 
@@ -323,4 +324,11 @@ Solution|Comments
     t = min(temp, m // i)
     ans -= t
     m -= i * t
+    ```
+
+6. prefixSum and subPrefixsum
+
+    ```Python
+    prefixSum[i][j] = prefixSum[i-1][j] + prefixSum[i][j-1] - prefixSum[i-1][j-1] + mat[i-1][j-1];
+    subPrefixSum[x1+1~x2][y1+1~y2] = prefixSum[x2][y2] - prefixSum[x1][y2] - prefixSum[x2][y1] + prefixSum[x1][y1];
     ```
