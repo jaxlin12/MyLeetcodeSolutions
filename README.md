@@ -251,3 +251,9 @@ Solution|Comments
         for key in d_dict:
             sum *= powOf10(a[i], key) * d_dict[key]
     ```
+
+2. Cutting Metal Surplus:
+
+    ```Python
+    Binary Search N * L * P - C * $ for L in range(1, maxlen)
+    ```
