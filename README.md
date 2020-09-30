@@ -316,3 +316,11 @@ Solution|Comments
 
         return ans
     ```
+
+5. Hash occurences and then hash frequency
+
+    ```Python
+    t = min(temp, m // i)
+    ans -= t
+    m -= i * t
+    ```
