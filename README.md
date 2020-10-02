@@ -219,7 +219,7 @@ Solution|Comments
 
 ## Hard
 
-### count: 13
+### count: 16
 
 Solution|Comments
 :-|:-:
@@ -237,6 +237,7 @@ Solution|Comments
 [212.word-search-ii.py](./code/212.word-search-ii.py)|Trie bulid on top of words not boards, then DFS
 [214.shortest-palindrome.py](./code/214.shortest-palindrome.py)|rev + check + s[i:], the longest palindrome must exists in the first n letters
 [218.the-skyline-problem.py](./code/218.the-skyline-problem.py)|[https://briangordon.github.io/2014/08/the-skyline-problem.html](https://briangordon.github.io/2014/08/the-skyline-problem.html)
+[224.basic-calculator.py](./code/224.basic-calculator.py)|A+B+C=C+B+A, (A-B)-C=C-)B-A(, A-B-C=A+(-B)+(-C)
 
 ## Note
 
