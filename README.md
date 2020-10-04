@@ -109,7 +109,7 @@ Solution|Comments
 
 ## Medium
 
-### count: 103
+### count: 104
 
 Solution|Comments
 :-|:-:
@@ -217,6 +217,7 @@ Solution|Comments
 [1027.longest-arithmetic-sequence.py](./code/1027.longest-arithmetic-sequence.py)|Dynamic Programming: dp[i, d] = dp[j, d] + 1
 [1292.maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.py](./code/1292.maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.py)|Note #6
 [228.summary-ranges.py](./code/228.summary-ranges.py)|N/A
+[230.kth-smallest-element-in-a-bst.py](./code/230.kth-smallest-element-in-a-bst.py)|N/A
 
 ## Hard
 
