@@ -216,6 +216,7 @@ Solution|Comments
 [394.decode-string.py](./code/394.decode-string.py)|N/A
 [1027.longest-arithmetic-sequence.py](./code/1027.longest-arithmetic-sequence.py)|Dynamic Programming: dp[i, d] = dp[j, d] + 1
 [1292.maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.py](./code/1292.maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.py)|Note #6
+[228.summary-ranges.py](./code/228.summary-ranges.py)|N/A
 
 ## Hard
 
