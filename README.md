@@ -219,10 +219,11 @@ Solution|Comments
 [228.summary-ranges.py](./code/228.summary-ranges.py)|N/A
 [230.kth-smallest-element-in-a-bst.py](./code/230.kth-smallest-element-in-a-bst.py)|N/A
 [1177.can-make-palindrome-from-substring.py](./code/1177.can-make-palindrome-from-substring.py)|PrefixSum
+[241.different-ways-to-add-parentheses.py](./code/241.different-ways-to-add-parentheses.py)|Divide and conquer, func(left[:]) op[i] func(right[i+1:]) for i is op
 
 ## Hard
 
-### count: 16
+### count: 17
 
 Solution|Comments
 :-|:-:
@@ -241,7 +242,7 @@ Solution|Comments
 [214.shortest-palindrome.py](./code/214.shortest-palindrome.py)|rev + check + s[i:], the longest palindrome must exists in the first n letters
 [218.the-skyline-problem.py](./code/218.the-skyline-problem.py)|[https://briangordon.github.io/2014/08/the-skyline-problem.html](https://briangordon.github.io/2014/08/the-skyline-problem.html)
 [224.basic-calculator.py](./code/224.basic-calculator.py)|A+B+C=C+B+A, (A-B)-C=C-)B-A(, A-B-C=A+(-B)+(-C)
-[241.different-ways-to-add-parentheses.py](./code/241.different-ways-to-add-parentheses.py)|Divide and conquer, func(left[:]) op[i] func(right[i+1:]) for i is op
+[239.sliding-window-maximum.py](./code/239.sliding-window-maximum.py)|Use deque to find local max, pop if current >= dq[0], res+=dq.popleft()
 
 ## Note
 
