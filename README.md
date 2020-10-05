@@ -109,7 +109,7 @@ Solution|Comments
 
 ## Medium
 
-### count: 104
+### count: 106
 
 Solution|Comments
 :-|:-:
@@ -218,6 +218,7 @@ Solution|Comments
 [1292.maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.py](./code/1292.maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.py)|Note #6
 [228.summary-ranges.py](./code/228.summary-ranges.py)|N/A
 [230.kth-smallest-element-in-a-bst.py](./code/230.kth-smallest-element-in-a-bst.py)|N/A
+[1177.can-make-palindrome-from-substring.py](./code/1177.can-make-palindrome-from-substring.py)|PrefixSum
 
 ## Hard
 
@@ -240,6 +241,7 @@ Solution|Comments
 [214.shortest-palindrome.py](./code/214.shortest-palindrome.py)|rev + check + s[i:], the longest palindrome must exists in the first n letters
 [218.the-skyline-problem.py](./code/218.the-skyline-problem.py)|[https://briangordon.github.io/2014/08/the-skyline-problem.html](https://briangordon.github.io/2014/08/the-skyline-problem.html)
 [224.basic-calculator.py](./code/224.basic-calculator.py)|A+B+C=C+B+A, (A-B)-C=C-)B-A(, A-B-C=A+(-B)+(-C)
+[241.different-ways-to-add-parentheses.py](./code/241.different-ways-to-add-parentheses.py)|Divide and conquer, func(left[:]) op[i] func(right[i+1:]) for i is op
 
 ## Note
 
