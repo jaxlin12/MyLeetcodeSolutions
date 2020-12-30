@@ -2,7 +2,7 @@
 
 ## Easy
 
-### count: 100
+### count: 101
 
 Solution|Comments
 :-|:-:
@@ -106,10 +106,11 @@ Solution|Comments
 [459.repeated-substring-pattern.py](./code/459.repeated-substring-pattern.py)|🐮🍺KMP algorithm, python sublinear string matching operation
 [461.hamming-distance.py](./code/461.hamming-distance.py)|N/A
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
+[819.most-common-word.py](./code/819.most-common-word.py)|N/A
 
 ## Medium
 
-### count: 106
+### count: 109
 
 Solution|Comments
 :-|:-:
@@ -220,6 +221,9 @@ Solution|Comments
 [230.kth-smallest-element-in-a-bst.py](./code/230.kth-smallest-element-in-a-bst.py)|N/A
 [1177.can-make-palindrome-from-substring.py](./code/1177.can-make-palindrome-from-substring.py)|PrefixSum
 [241.different-ways-to-add-parentheses.py](./code/241.different-ways-to-add-parentheses.py)|Divide and conquer, func(left[:]) op[i] func(right[i+1:]) for i is op
+[1328.break-a-palindrome.py](./code/1328.break-a-palindrome.py)|N/A
+[1481.least-number-of-unique-integers-after-k-removals.py](./code/1481.least-number-of-unique-integers-after-k-removals.py)|Sorted Dict
+[221.maximal-square.py](./code/221.maximal-square.py)|DP
 
 ## Hard
 
