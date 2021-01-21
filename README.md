@@ -110,7 +110,7 @@ Solution|Comments
 
 ## Medium
 
-### count: 112
+### count: 113
 
 Solution|Comments
 :-|:-:
@@ -227,6 +227,7 @@ Solution|Comments
 [236.lowest-common-ancestor-of-a-binary-tree.py](./code/236.lowest-common-ancestor-of-a-binary-tree.py)|N/A
 [238.product-of-array-except-self.py](./code/238.product-of-array-except-self.py)|N/A
 [240.search-a-2-d-matrix-ii.py](./code/240.search-a-2-d-matrix-ii.py)|N/A
+[380.insert-delete-get-random-o-1.py](./code/380.insert-delete-get-random-o-1.py)|N/A
 
 ## Hard
 
