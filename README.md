@@ -225,7 +225,7 @@ Solution|Comments
 [1481.least-number-of-unique-integers-after-k-removals.py](./code/1481.least-number-of-unique-integers-after-k-removals.py)|Sorted Dict
 [221.maximal-square.py](./code/221.maximal-square.py)|DP
 [236.lowest-common-ancestor-of-a-binary-tree.py](./code/236.lowest-common-ancestor-of-a-binary-tree.py)|N/A
-[238.product-of-array-except-self.py](./code/238.|product-of-array-except-self.py)|N/A
+[238.product-of-array-except-self.py](./code/238.product-of-array-except-self.py)|N/A
 
 ## Hard
 
