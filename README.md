@@ -110,7 +110,7 @@ Solution|Comments
 
 ## Medium
 
-### count: 113
+### count: 114
 
 Solution|Comments
 :-|:-:
@@ -228,6 +228,7 @@ Solution|Comments
 [238.product-of-array-except-self.py](./code/238.product-of-array-except-self.py)|N/A
 [240.search-a-2-d-matrix-ii.py](./code/240.search-a-2-d-matrix-ii.py)|N/A
 [380.insert-delete-get-random-o-1.py](./code/380.insert-delete-get-random-o-1.py)|N/A
+[396.rotate-function.py](./code/396.rotate-function.py)|N/A
 
 ## Hard
 
