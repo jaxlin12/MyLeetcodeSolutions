@@ -110,7 +110,7 @@ Solution|Comments
 
 ## Medium
 
-### count: 114
+### count: 115
 
 Solution|Comments
 :-|:-:
@@ -229,6 +229,7 @@ Solution|Comments
 [240.search-a-2-d-matrix-ii.py](./code/240.search-a-2-d-matrix-ii.py)|N/A
 [380.insert-delete-get-random-o-1.py](./code/380.insert-delete-get-random-o-1.py)|N/A
 [396.rotate-function.py](./code/396.rotate-function.py)|N/A
+[438.find-all-anagrams-in-a-string.py](./code/438.find-all-anagrams-in-a-string.py)|Two HashTable to compare counts
 
 ## Hard
 
