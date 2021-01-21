@@ -110,7 +110,7 @@ Solution|Comments
 
 ## Medium
 
-### count: 109
+### count: 110
 
 Solution|Comments
 :-|:-:
@@ -224,6 +224,7 @@ Solution|Comments
 [1328.break-a-palindrome.py](./code/1328.break-a-palindrome.py)|N/A
 [1481.least-number-of-unique-integers-after-k-removals.py](./code/1481.least-number-of-unique-integers-after-k-removals.py)|Sorted Dict
 [221.maximal-square.py](./code/221.maximal-square.py)|DP
+[236.lowest-common-ancestor-of-a-binary-tree.py](./code/236.lowest-common-ancestor-of-a-binary-tree.py)|N/A
 
 ## Hard
 
