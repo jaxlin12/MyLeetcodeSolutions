@@ -110,7 +110,7 @@ Solution|Comments
 
 ## Medium
 
-### count: 116
+### count: 117
 
 Solution|Comments
 :-|:-:
@@ -231,6 +231,7 @@ Solution|Comments
 [396.rotate-function.py](./code/396.rotate-function.py)|N/A
 [438.find-all-anagrams-in-a-string.py](./code/438.find-all-anagrams-in-a-string.py)|Two HashTable to compare counts
 [449.serialize-and-deserialize-bst.py](./code/449.serialize-and-deserialize-bst.py)|Deque popleft takes O(1) but list pop(0) takes O(N)
+[451.sort-characters-by-frequency.py](./code/451.sort-characters-by-frequency.py)|sorted(iterable, key=sort_func,reverse=True)
 
 ## Hard
 
