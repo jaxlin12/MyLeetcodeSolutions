@@ -110,7 +110,7 @@ Solution|Comments
 
 ## Medium
 
-### count: 115
+### count: 116
 
 Solution|Comments
 :-|:-:
@@ -230,6 +230,7 @@ Solution|Comments
 [380.insert-delete-get-random-o-1.py](./code/380.insert-delete-get-random-o-1.py)|N/A
 [396.rotate-function.py](./code/396.rotate-function.py)|N/A
 [438.find-all-anagrams-in-a-string.py](./code/438.find-all-anagrams-in-a-string.py)|Two HashTable to compare counts
+[449.serialize-and-deserialize-bst.py](./code/449.serialize-and-deserialize-bst.py)|Deque popleft takes O(1) but list pop(0) takes O(N)
 
 ## Hard
 
