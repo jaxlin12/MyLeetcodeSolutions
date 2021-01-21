@@ -110,7 +110,7 @@ Solution|Comments
 
 ## Medium
 
-### count: 118
+### count: 119
 
 Solution|Comments
 :-|:-:
@@ -233,6 +233,7 @@ Solution|Comments
 [449.serialize-and-deserialize-bst.py](./code/449.serialize-and-deserialize-bst.py)|Deque popleft takes O(1) but list pop(0) takes O(N)
 [451.sort-characters-by-frequency.py](./code/451.sort-characters-by-frequency.py)|sorted(iterable, key=sort_func,reverse=True)
 [508.most-frequent-subtree-sum.py](./code/508.most-frequent-subtree-sum.py)|N/A
+[516.longest-palindromic-subsequence.py](./code/516.longest-palindromic-subsequence.py)|DP_i,j = DP_i+1_j-1 + 2 or max(DP_i+1_j, DP_i_j-1)
 
 ## Hard
 
