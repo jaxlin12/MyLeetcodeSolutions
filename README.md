@@ -2,7 +2,7 @@
 
 ## Easy
 
-### count: 102
+### count: 103
 
 Solution|Comments
 :-|:-:
@@ -108,6 +108,7 @@ Solution|Comments
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 [819.most-common-word.py](./code/819.most-common-word.py)|N/A
 [606.construct-string-from-binary-tree.py](./code/606.construct-string-from-binary-tree.py)|N/A
+[617.merge-two-binary-trees.py](./code/617.merge-two-binary-trees.py)|N/A
 
 ## Medium
 
