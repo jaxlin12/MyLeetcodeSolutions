@@ -110,7 +110,7 @@ Solution|Comments
 
 ## Medium
 
-### count: 121
+### count: 122
 
 Solution|Comments
 :-|:-:
@@ -236,6 +236,7 @@ Solution|Comments
 [516.longest-palindromic-subsequence.py](./code/516.longest-palindromic-subsequence.py)|DP_i,j = DP_i+1_j-1 + 2 or max(DP_i+1_j, DP_i_j-1)
 [532.k-diff-pairs-in-an-array.py](./code/532.k-diff-pairs-in-an-array.py)|N/A
 [537.complex-number-multiplication.py](./code/537.complex-number-multiplication.py)|N/A
+[538.convert-bst-to-greater-tree.py](./code/538.convert-bst-to-greater-tree.py)|N/A
 
 ## Hard
 
