@@ -2,7 +2,7 @@
 
 ## Easy
 
-### count: 103
+### count: 104
 
 Solution|Comments
 :-|:-:
@@ -109,6 +109,7 @@ Solution|Comments
 [819.most-common-word.py](./code/819.most-common-word.py)|N/A
 [606.construct-string-from-binary-tree.py](./code/606.construct-string-from-binary-tree.py)|N/A
 [617.merge-two-binary-trees.py](./code/617.merge-two-binary-trees.py)|N/A
+[645.set-mismatch.py](./code/645.set-mismatch.py)|Negative the value in the corresponding index to mark visited for O(1) space
 
 ## Medium
 
