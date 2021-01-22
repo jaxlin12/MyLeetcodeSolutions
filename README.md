@@ -110,7 +110,7 @@ Solution|Comments
 
 ## Medium
 
-### count: 122
+### count: 123
 
 Solution|Comments
 :-|:-:
@@ -237,6 +237,7 @@ Solution|Comments
 [532.k-diff-pairs-in-an-array.py](./code/532.k-diff-pairs-in-an-array.py)|N/A
 [537.complex-number-multiplication.py](./code/537.complex-number-multiplication.py)|N/A
 [538.convert-bst-to-greater-tree.py](./code/538.convert-bst-to-greater-tree.py)|N/A
+[553.optimal-division.py](./code/553.optimal-division.py)|N/A
 
 ## Hard
 
