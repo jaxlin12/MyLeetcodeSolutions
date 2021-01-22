@@ -2,7 +2,7 @@
 
 ## Easy
 
-### count: 101
+### count: 102
 
 Solution|Comments
 :-|:-:
@@ -107,6 +107,7 @@ Solution|Comments
 [461.hamming-distance.py](./code/461.hamming-distance.py)|N/A
 [463.island-perimeter.py](./code/463.island-perimeter.py)|N/A
 [819.most-common-word.py](./code/819.most-common-word.py)|N/A
+[606.construct-string-from-binary-tree.py](./code/606.construct-string-from-binary-tree.py)|N/A
 
 ## Medium
 
