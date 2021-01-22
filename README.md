@@ -113,7 +113,7 @@ Solution|Comments
 
 ## Medium
 
-### count: 124
+### count: 125
 
 Solution|Comments
 :-|:-:
@@ -242,6 +242,7 @@ Solution|Comments
 [538.convert-bst-to-greater-tree.py](./code/538.convert-bst-to-greater-tree.py)|N/A
 [553.optimal-division.py](./code/553.optimal-division.py)|N/A
 [640.solve-the-equation.py](./code/640.solve-the-equation.py)|N/A
+[646.maximum-length-of-pair-chain.py](./code/646.maximum-length-of-pair-chain.py)|https://leetcode.com/problems/maximum-length-of-pair-chain/discuss/225801/Proof-of-the-greedy-solution
 
 ## Hard
 
