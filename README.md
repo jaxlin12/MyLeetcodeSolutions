@@ -2,7 +2,7 @@
 
 ## Easy
 
-### count: 104
+### count: 105
 
 Solution|Comments
 :-|:-:
@@ -110,6 +110,7 @@ Solution|Comments
 [606.construct-string-from-binary-tree.py](./code/606.construct-string-from-binary-tree.py)|N/A
 [617.merge-two-binary-trees.py](./code/617.merge-two-binary-trees.py)|N/A
 [645.set-mismatch.py](./code/645.set-mismatch.py)|Negative the value in the corresponding index to mark visited for O(1) space
+[661.image-smoother.py](./code/661.image-smoother.py)|N/A
 
 ## Medium
 
