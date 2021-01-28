@@ -2,7 +2,7 @@
 
 ## Easy
 
-### count: 105
+### count: 106
 
 Solution|Comments
 :-|:-:
@@ -111,10 +111,11 @@ Solution|Comments
 [617.merge-two-binary-trees.py](./code/617.merge-two-binary-trees.py)|N/A
 [645.set-mismatch.py](./code/645.set-mismatch.py)|Negative the value in the corresponding index to mark visited for O(1) space
 [661.image-smoother.py](./code/661.image-smoother.py)|N/A
+[682.baseball-game.py](./code/682.baseball-game.py)|N/A
 
 ## Medium
 
-### count: 126
+### count: 127
 
 Solution|Comments
 :-|:-:
@@ -245,10 +246,11 @@ Solution|Comments
 [640.solve-the-equation.py](./code/640.solve-the-equation.py)|N/A
 [646.maximum-length-of-pair-chain.py](./code/646.maximum-length-of-pair-chain.py)|https://leetcode.com/problems/maximum-length-of-pair-chain/discuss/225801/Proof-of-the-greedy-solution
 [662.maximum-width-of-binary-tree.py](./code/662.maximum-width-of-binary-tree.py)|starting from 1, left child = 2 * i, right child = 2 * i + 1
+[692.top-k-frequent-words.py](./code/692.top-k-frequent-words.py)|sorted NlogN, heap NlogK
 
 ## Hard
 
-### count: 17
+### count: 18
 
 Solution|Comments
 :-|:-:
@@ -268,6 +270,7 @@ Solution|Comments
 [218.the-skyline-problem.py](./code/218.the-skyline-problem.py)|[https://briangordon.github.io/2014/08/the-skyline-problem.html](https://briangordon.github.io/2014/08/the-skyline-problem.html)
 [224.basic-calculator.py](./code/224.basic-calculator.py)|A+B+C=C+B+A, (A-B)-C=C-)B-A(, A-B-C=A+(-B)+(-C)
 [239.sliding-window-maximum.py](./code/239.sliding-window-maximum.py)|Use deque to find local max, pop if current >= dq[0], res+=dq.popleft()
+[](./code/675.cut-off-trees-for-golf-event.py)|A* Search g = src to dist, h = dis to target
 
 ## Note
 
