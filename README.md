@@ -115,7 +115,7 @@ Solution|Comments
 
 ## Medium
 
-### count: 127
+### count: 128
 
 Solution|Comments
 :-|:-:
@@ -247,6 +247,7 @@ Solution|Comments
 [646.maximum-length-of-pair-chain.py](./code/646.maximum-length-of-pair-chain.py)|https://leetcode.com/problems/maximum-length-of-pair-chain/discuss/225801/Proof-of-the-greedy-solution
 [662.maximum-width-of-binary-tree.py](./code/662.maximum-width-of-binary-tree.py)|starting from 1, left child = 2 * i, right child = 2 * i + 1
 [692.top-k-frequent-words.py](./code/692.top-k-frequent-words.py)|sorted NlogN, heap NlogK
+[725.split-linked-list-in-parts.py](./code/725.split-linked-list-in-parts.py)|N/A
 
 ## Hard
 
