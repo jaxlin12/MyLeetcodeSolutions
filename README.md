@@ -114,7 +114,7 @@ Solution|Comments
 
 ## Medium
 
-### count: 125
+### count: 126
 
 Solution|Comments
 :-|:-:
@@ -244,6 +244,7 @@ Solution|Comments
 [553.optimal-division.py](./code/553.optimal-division.py)|N/A
 [640.solve-the-equation.py](./code/640.solve-the-equation.py)|N/A
 [646.maximum-length-of-pair-chain.py](./code/646.maximum-length-of-pair-chain.py)|https://leetcode.com/problems/maximum-length-of-pair-chain/discuss/225801/Proof-of-the-greedy-solution
+[662.maximum-width-of-binary-tree.py](./code/662.maximum-width-of-binary-tree.py)|starting from 1, left child = 2 * i, right child = 2 * i + 1
 
 ## Hard
 
