@@ -115,7 +115,7 @@ Solution|Comments
 
 ## Medium
 
-### count: 130
+### count: 131
 
 Solution|Comments
 :-|:-:
@@ -250,6 +250,7 @@ Solution|Comments
 [725.split-linked-list-in-parts.py](./code/725.split-linked-list-in-parts.py)|N/A
 [216.combination-sum-iii.java](./code/216.combination-sum-iii.java)|N/A
 [220.contains-duplicate-iii.java](./code/220.contains-duplicate-iii.java)|Use Backets to realize sliding window baed on value an index
+[222.count-complete-tree-nodes.java](./code/222.count-complete-tree-nodes.java)|Check heights of left and right subtrees to find the gap
 
 ## Hard
 
