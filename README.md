@@ -115,7 +115,7 @@ Solution|Comments
 
 ## Medium
 
-### count: 133
+### count: 134
 
 Solution|Comments
 :-|:-:
@@ -253,6 +253,7 @@ Solution|Comments
 [222.count-complete-tree-nodes.java](./code/222.count-complete-tree-nodes.java)|Check heights of left and right subtrees to find the gap
 [223.rectangle-area.java](./code/223.rectangle-area.java)|Left, Right, Top, Bottom
 [227.basic-calculator-ii.java](./code/227.basic-calculator-ii.java)|Stack vs. lastNumber
+[229.majority-element-ii.java](./code/229.majority-element-ii.java)|Boyer-Moore Majority Vote algorithm
 
 ## Hard
 
