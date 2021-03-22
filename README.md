@@ -115,7 +115,7 @@ Solution|Comments
 
 ## Medium
 
-### count: 132
+### count: 133
 
 Solution|Comments
 :-|:-:
@@ -252,6 +252,7 @@ Solution|Comments
 [220.contains-duplicate-iii.java](./code/220.contains-duplicate-iii.java)|Use Backets to realize sliding window baed on value an index
 [222.count-complete-tree-nodes.java](./code/222.count-complete-tree-nodes.java)|Check heights of left and right subtrees to find the gap
 [223.rectangle-area.java](./code/223.rectangle-area.java)|Left, Right, Top, Bottom
+[227.basic-calculator-ii.java](./code/227.basic-calculator-ii.java)|Stack vs. lastNumber
 
 ## Hard
 
