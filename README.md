@@ -115,7 +115,7 @@ Solution|Comments
 
 ## Medium
 
-### count: 129
+### count: 130
 
 Solution|Comments
 :-|:-:
@@ -249,6 +249,7 @@ Solution|Comments
 [692.top-k-frequent-words.py](./code/692.top-k-frequent-words.py)|sorted NlogN, heap NlogK
 [725.split-linked-list-in-parts.py](./code/725.split-linked-list-in-parts.py)|N/A
 [216.combination-sum-iii.java](./code/216.combination-sum-iii.java)|N/A
+[220.contains-duplicate-iii.java](./code/220.contains-duplicate-iii.java)|Use Backets to realize sliding window baed on value an index
 
 ## Hard
 
