@@ -115,7 +115,7 @@ Solution|Comments
 
 ## Medium
 
-### count: 134
+### count: 135
 
 Solution|Comments
 :-|:-:
@@ -254,6 +254,7 @@ Solution|Comments
 [223.rectangle-area.java](./code/223.rectangle-area.java)|Left, Right, Top, Bottom
 [227.basic-calculator-ii.java](./code/227.basic-calculator-ii.java)|Stack vs. lastNumber
 [229.majority-element-ii.java](./code/229.majority-element-ii.java)|Boyer-Moore Majority Vote algorithm
+[145.binary-tree-postorder-traversal.java](./code/145.binary-tree-postorder-traversal.java)|Queue: add, peekLast, pollLast, Stack: push, pop, peek, poll.
 
 ## Hard
 
