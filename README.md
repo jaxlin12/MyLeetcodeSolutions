@@ -115,7 +115,7 @@ Solution|Comments
 
 ## Medium
 
-### count: 135
+### count: 136
 
 Solution|Comments
 :-|:-:
@@ -255,6 +255,7 @@ Solution|Comments
 [227.basic-calculator-ii.java](./code/227.basic-calculator-ii.java)|Stack vs. lastNumber
 [229.majority-element-ii.java](./code/229.majority-element-ii.java)|Boyer-Moore Majority Vote algorithm
 [145.binary-tree-postorder-traversal.java](./code/145.binary-tree-postorder-traversal.java)|Queue: add, peekLast, pollLast, Stack: push, pop, peek, poll.
+[260.single-number-iii.java](./code/260.single-number-iii.java)|Two passes, second pass breaks nums to two groups based on the least significant bit of mask.
 
 ## Hard
 
