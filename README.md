@@ -115,7 +115,7 @@ Solution|Comments
 
 ## Medium
 
-### count: 142
+### count: 143
 
 Solution|Comments
 :-|:-:
@@ -262,6 +262,7 @@ Solution|Comments
 [279.perfect-squares.java](./code/279.perfect-squares.java)|See comments inside
 [284.peeking-iterator.java](./code/284.peeking-iterator.java)|N/A
 [287.find-the-duplicate-number.java](./code/287.find-the-duplicate-number.java)|Floyd's Tortoise and Hare (Cycle Detection)
+[289.game-of-life.java](./code/289.game-of-life.java)|N/A
 
 ## Hard
 
