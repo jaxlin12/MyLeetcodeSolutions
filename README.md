@@ -258,7 +258,7 @@ Solution|Comments
 [260.single-number-iii.java](./code/260.single-number-iii.java)|Two passes, second pass breaks nums to two groups based on the least significant bit of mask.
 [264.ugly-number-ii.java](./code/264.ugly-number-ii.java)|Merge Sort to generate all the multiples of 2, 3, 4, 5.
 [274.h-index.java](./code/274.h-index.java)|Bucket Sort and count the sum of buckets from the end to the start.
-[275.h-index-ii.java](./code/275.h-index-ii.java)|Binary Search
+[275.h-index-ii.java](./code/275.h-index-ii.java)|Binary Search, After iteration, it is guaranteed that right+1 is the one we need to find (i.e. len-(right+1) papars have at least len-(righ+1) citations)
 
 ## Hard
 
