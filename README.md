@@ -115,7 +115,7 @@ Solution|Comments
 
 ## Medium
 
-### count: 139
+### count: 140
 
 Solution|Comments
 :-|:-:
@@ -259,6 +259,7 @@ Solution|Comments
 [264.ugly-number-ii.java](./code/264.ugly-number-ii.java)|Merge Sort to generate all the multiples of 2, 3, 4, 5.
 [274.h-index.java](./code/274.h-index.java)|Bucket Sort and count the sum of buckets from the end to the start.
 [275.h-index-ii.java](./code/275.h-index-ii.java)|Binary Search, After iteration, it is guaranteed that right+1 is the one we need to find (i.e. len-(right+1) papars have at least len-(righ+1) citations)
+[279.perfect-squares.java](./code/279.perfect-squares.java)|See comments inside
 
 ## Hard
 
