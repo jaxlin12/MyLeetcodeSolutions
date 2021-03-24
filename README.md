@@ -115,7 +115,7 @@ Solution|Comments
 
 ## Medium
 
-### count: 141
+### count: 142
 
 Solution|Comments
 :-|:-:
@@ -261,6 +261,7 @@ Solution|Comments
 [275.h-index-ii.java](./code/275.h-index-ii.java)|Binary Search, After iteration, it is guaranteed that right+1 is the one we need to find (i.e. len-(right+1) papars have at least len-(righ+1) citations)
 [279.perfect-squares.java](./code/279.perfect-squares.java)|See comments inside
 [284.peeking-iterator.java](./code/284.peeking-iterator.java)|N/A
+[287.find-the-duplicate-number.java](./code/287.find-the-duplicate-number.java)|Floyd's Tortoise and Hare (Cycle Detection)
 
 ## Hard
 
