@@ -115,7 +115,7 @@ Solution|Comments
 
 ## Medium
 
-### count: 136
+### count: 137
 
 Solution|Comments
 :-|:-:
@@ -256,6 +256,7 @@ Solution|Comments
 [229.majority-element-ii.java](./code/229.majority-element-ii.java)|Boyer-Moore Majority Vote algorithm
 [145.binary-tree-postorder-traversal.java](./code/145.binary-tree-postorder-traversal.java)|Queue: add, peekLast, pollLast, Stack: push, pop, peek, poll.
 [260.single-number-iii.java](./code/260.single-number-iii.java)|Two passes, second pass breaks nums to two groups based on the least significant bit of mask.
+[264.ugly-number-ii.java](./code/264.ugly-number-ii.java)|Merge Sort to generate all the multiples of 2, 3, 4, 5.
 
 ## Hard
 
