@@ -115,7 +115,7 @@ Solution|Comments
 
 ## Medium
 
-### count: 145
+### count: 146
 
 Solution|Comments
 :-|:-:
@@ -265,6 +265,7 @@ Solution|Comments
 [289.game-of-life.java](./code/289.game-of-life.java)|N/A
 [300.longest-increasing-subsequence.java](./code/300.longest-increasing-subsequence.java)|DP and DP + binary search
 [304.range-sum-query-2-d-immutable.java](./code/304.range-sum-query-2-d-immutable.java)|PrefixSum
+[306.additive-number.java](./code/306.additive-number.java)|Backtracking
 
 ## Hard
 
