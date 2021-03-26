@@ -115,7 +115,7 @@ Solution|Comments
 
 ## Medium
 
-### count: 144
+### count: 145
 
 Solution|Comments
 :-|:-:
@@ -264,6 +264,7 @@ Solution|Comments
 [287.find-the-duplicate-number.java](./code/287.find-the-duplicate-number.java)|Floyd's Tortoise and Hare (Cycle Detection)
 [289.game-of-life.java](./code/289.game-of-life.java)|N/A
 [300.longest-increasing-subsequence.java](./code/300.longest-increasing-subsequence.java)|DP and DP + binary search
+[304.range-sum-query-2-d-immutable.java](./code/304.range-sum-query-2-d-immutable.java)|PrefixSum
 
 ## Hard
 
