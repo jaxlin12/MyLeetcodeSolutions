@@ -115,7 +115,7 @@ Solution|Comments
 
 ## Medium
 
-### count: 146
+### count: 147
 
 Solution|Comments
 :-|:-:
@@ -266,6 +266,7 @@ Solution|Comments
 [300.longest-increasing-subsequence.java](./code/300.longest-increasing-subsequence.java)|DP and DP + binary search
 [304.range-sum-query-2-d-immutable.java](./code/304.range-sum-query-2-d-immutable.java)|PrefixSum
 [306.additive-number.java](./code/306.additive-number.java)|Backtracking
+[307.range-sum-query-mutable.java](./code/307.range-sum-query-mutable.java)|Segment Tree!!!
 
 ## Hard
 
