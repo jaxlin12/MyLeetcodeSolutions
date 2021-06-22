@@ -115,7 +115,7 @@ Solution|Comments
 
 ## Medium
 
-### count: 151
+### count: 152
 
 Solution|Comments
 :-|:-:
@@ -271,6 +271,7 @@ Solution|Comments
 [310.minimum-height-trees.java](./code/310.minimum-height-trees.java)|For the tree-alike graph, the number of centroids is no more than 2.
 [313.super-ugly-number.java](./code/313.super-ugly-number.java)|Generate the super ugly number one by one and remove the duplications. (Maybe use heap to do the merge sort for each list of multiplication of primes)
 [316.remove-duplicate-letters.java](./code/316.remove-duplicate-letters.java)|Count first and then use greedy stack to add letters.
+[318.maximum-product-of-word-lengths.java](./code/318.maximum-product-of-word-lengths.java)|Use bits of integer to index letters
 
 ## Hard
 
