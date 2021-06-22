@@ -115,7 +115,7 @@ Solution|Comments
 
 ## Medium
 
-### count: 150
+### count: 151
 
 Solution|Comments
 :-|:-:
@@ -270,6 +270,7 @@ Solution|Comments
 [309.best-time-to-buy-and-sell-stock-with-cooldown.java](./code/309.best-time-to-buy-and-sell-stock-with-cooldown.java)|https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/discuss/75928/Share-my-DP-solution-(By-State-Machine-Thinking)
 [310.minimum-height-trees.java](./code/310.minimum-height-trees.java)|For the tree-alike graph, the number of centroids is no more than 2.
 [313.super-ugly-number.java](./code/313.super-ugly-number.java)|Generate the super ugly number one by one and remove the duplications. (Maybe use heap to do the merge sort for each list of multiplication of primes)
+[316.remove-duplicate-letters.java](./code/316.remove-duplicate-letters.java)|Count first and then use greedy stack to add letters.
 
 ## Hard
 
