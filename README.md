@@ -115,7 +115,7 @@ Solution|Comments
 
 ## Medium
 
-### count: 153
+### count: 154
 
 Solution|Comments
 :-|:-:
@@ -273,6 +273,7 @@ Solution|Comments
 [316.remove-duplicate-letters.java](./code/316.remove-duplicate-letters.java)|Count first and then use greedy stack to add letters.
 [318.maximum-product-of-word-lengths.java](./code/318.maximum-product-of-word-lengths.java)|Use bits of integer to index letters
 [319.bulb-switcher.java](./code/319.bulb-switcher.java)|Math Problem
+[322.coin-change.java](./code/322.coin-change.java)|Find the best solution starting from 0 to amount using DP
 
 ## Hard
 
