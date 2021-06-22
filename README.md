@@ -115,7 +115,7 @@ Solution|Comments
 
 ## Medium
 
-### count: 152
+### count: 153
 
 Solution|Comments
 :-|:-:
@@ -272,6 +272,7 @@ Solution|Comments
 [313.super-ugly-number.java](./code/313.super-ugly-number.java)|Generate the super ugly number one by one and remove the duplications. (Maybe use heap to do the merge sort for each list of multiplication of primes)
 [316.remove-duplicate-letters.java](./code/316.remove-duplicate-letters.java)|Count first and then use greedy stack to add letters.
 [318.maximum-product-of-word-lengths.java](./code/318.maximum-product-of-word-lengths.java)|Use bits of integer to index letters
+[319.bulb-switcher.java](./code/319.bulb-switcher.java)|Math Problem
 
 ## Hard
 
