@@ -59,6 +59,7 @@ class Solution {
     
         @Override
         public int compareTo(Num that) {
+            // min heap
             return this.val - that.val;
         }
     }
