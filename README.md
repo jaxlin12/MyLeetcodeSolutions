@@ -115,7 +115,7 @@ Solution|Comments
 
 ## Medium
 
-### count: 156
+### count: 157
 
 Solution|Comments
 :-|:-:
@@ -276,6 +276,7 @@ Solution|Comments
 [322.coin-change.java](./code/322.coin-change.java)|Find the best solution starting from 0 to amount using DP
 [324.wiggle-sort-ii.java](./code/324.wiggle-sort-ii.java)|https://leetcode.com/problems/wiggle-sort-ii/discuss/77684/Summary-of-the-various-solutions-to-Wiggle-Sort-for-your-reference
 [328.odd-even-linked-list.java](./code/328.odd-even-linked-list.java)|N/A
+[331.verify-preorder-serialization-of-a-binary-tree.java](./code/331.verify-preorder-serialization-of-a-binary-tree.java)|N/A
 
 ## Hard
 
