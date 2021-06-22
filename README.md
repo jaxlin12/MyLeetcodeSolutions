@@ -115,7 +115,7 @@ Solution|Comments
 
 ## Medium
 
-### count: 154
+### count: 155
 
 Solution|Comments
 :-|:-:
@@ -274,6 +274,7 @@ Solution|Comments
 [318.maximum-product-of-word-lengths.java](./code/318.maximum-product-of-word-lengths.java)|Use bits of integer to index letters
 [319.bulb-switcher.java](./code/319.bulb-switcher.java)|Math Problem
 [322.coin-change.java](./code/322.coin-change.java)|Find the best solution starting from 0 to amount using DP
+[324.wiggle-sort-ii.java](./code/324.wiggle-sort-ii.java)|https://leetcode.com/problems/wiggle-sort-ii/discuss/77684/Summary-of-the-various-solutions-to-Wiggle-Sort-for-your-reference
 
 ## Hard
 
