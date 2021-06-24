@@ -115,7 +115,7 @@ Solution|Comments
 
 ## Medium
 
-### count: 157
+### count: 158
 
 Solution|Comments
 :-|:-:
@@ -277,6 +277,7 @@ Solution|Comments
 [324.wiggle-sort-ii.java](./code/324.wiggle-sort-ii.java)|https://leetcode.com/problems/wiggle-sort-ii/discuss/77684/Summary-of-the-various-solutions-to-Wiggle-Sort-for-your-reference
 [328.odd-even-linked-list.java](./code/328.odd-even-linked-list.java)|N/A
 [331.verify-preorder-serialization-of-a-binary-tree.java](./code/331.verify-preorder-serialization-of-a-binary-tree.java)|N/A
+[332.reconstruct-itinerary.java](./code/332.reconstruct-itinerary.java)|DFS + Greedy❗️❗️❗️
 
 ## Hard
 
