@@ -115,7 +115,7 @@ Solution|Comments
 
 ## Medium
 
-### count: 158
+### count: 159
 
 Solution|Comments
 :-|:-:
@@ -278,6 +278,7 @@ Solution|Comments
 [328.odd-even-linked-list.java](./code/328.odd-even-linked-list.java)|N/A
 [331.verify-preorder-serialization-of-a-binary-tree.java](./code/331.verify-preorder-serialization-of-a-binary-tree.java)|N/A
 [332.reconstruct-itinerary.java](./code/332.reconstruct-itinerary.java)|DFS + Greedy❗️❗️❗️ (the key bit here is to prove that when we get struck, its indeed the last destination.)
+[334.increasing-triplet-subsequence.java](./code/334.increasing-triplet-subsequence.java)|Record the first and second smallest.
 
 ## Hard
 
